@@ -1,0 +1,1740 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run aclocal-1.11$/;"	m
+ACLOCAL	doc/Makefile	/^ACLOCAL = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run aclocal-1.11$/;"	m
+ACLOCAL	src/Makefile	/^ACLOCAL = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run aclocal-1.11$/;"	m
+ACLOCAL	test/Makefile	/^ACLOCAL = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run aclocal-1.11$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	doc/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	src/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	test/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ALGORITHM_ARRAYLIST_H	src/arraylist.h	40;"	d
+ALGORITHM_AVLTREE_H	src/avl-tree.h	55;"	d
+ALGORITHM_BINARY_HEAP_H	src/binary-heap.h	39;"	d
+ALGORITHM_BINOMIAL_HEAP_H	src/binomial-heap.h	39;"	d
+ALGORITHM_BLOOM_FILTER_H	src/bloom-filter.h	41;"	d
+ALGORITHM_COMPARE_INT_H	src/compare-int.h	33;"	d
+ALGORITHM_COMPARE_POINTER_H	src/compare-pointer.h	32;"	d
+ALGORITHM_COMPARE_STRING_H	src/compare-string.h	35;"	d
+ALGORITHM_HASH_INT_H	src/hash-int.h	28;"	d
+ALGORITHM_HASH_POINTER_H	src/hash-pointer.h	28;"	d
+ALGORITHM_HASH_STRING_H	src/hash-string.h	29;"	d
+ALGORITHM_HASH_TABLE_H	src/hash-table.h	46;"	d
+ALGORITHM_LIST_H	src/list.h	54;"	d
+ALGORITHM_QUEUE_H	src/queue.h	42;"	d
+ALGORITHM_RB_TREE_H	src/rb-tree.h	56;"	d
+ALGORITHM_SET_H	src/set.h	48;"	d
+ALGORITHM_SLIST_H	src/slist.h	67;"	d
+ALGORITHM_TRIE_H	src/trie.h	41;"	d
+ALLOC_TESTING_C	test/alloc-testing.c	27;"	d	file:
+ALLOC_TESTING_H	test/alloc-testing.h	34;"	d
+ALLOC_TEST_MAGIC	test/alloc-testing.c	33;"	d	file:
+AMTAR	Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	doc/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	src/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	test/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AM_CFLAGS	test/Makefile	/^AM_CFLAGS = $(TEST_CFLAGS) -I..\/src -g$/;"	m
+AM_CXXFLAGS	test/Makefile	/^AM_CXXFLAGS = $(AM_CFLAGS)$/;"	m
+AM_RECURSIVE_TARGETS	Makefile	/^AM_RECURSIVE_TARGETS = $(RECURSIVE_TARGETS:-recursive=) \\$/;"	m
+AR	Makefile	/^AR = ar$/;"	m
+AR	doc/Makefile	/^AR = ar$/;"	m
+AR	src/Makefile	/^AR = ar$/;"	m
+AR	test/Makefile	/^AR = ar$/;"	m
+ARFLAGS	src/Makefile	/^ARFLAGS = cru$/;"	m
+ARFLAGS	test/Makefile	/^ARFLAGS = cru$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run autoconf$/;"	m
+AUTOCONF	doc/Makefile	/^AUTOCONF = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run autoconf$/;"	m
+AUTOCONF	src/Makefile	/^AUTOCONF = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run autoconf$/;"	m
+AUTOCONF	test/Makefile	/^AUTOCONF = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run autoheader$/;"	m
+AUTOHEADER	doc/Makefile	/^AUTOHEADER = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run autoheader$/;"	m
+AUTOHEADER	src/Makefile	/^AUTOHEADER = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run autoheader$/;"	m
+AUTOHEADER	test/Makefile	/^AUTOHEADER = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run automake-1.11$/;"	m
+AUTOMAKE	doc/Makefile	/^AUTOMAKE = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run automake-1.11$/;"	m
+AUTOMAKE	src/Makefile	/^AUTOMAKE = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run automake-1.11$/;"	m
+AUTOMAKE	test/Makefile	/^AUTOMAKE = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run automake-1.11$/;"	m
+AUX_DIST_GEN	Makefile	/^AUX_DIST_GEN = $(ac_aux_dir)$/;"	m
+AVLTree	src/avl-tree.h	/^typedef struct _AVLTree AVLTree;$/;"	t	typeref:struct:_AVLTree
+AVLTreeCompareFunc	src/avl-tree.h	/^typedef int (*AVLTreeCompareFunc)(AVLTreeValue value1, AVLTreeValue value2);$/;"	t
+AVLTreeKey	src/avl-tree.h	/^typedef void *AVLTreeKey;$/;"	t
+AVLTreeNode	src/avl-tree.h	/^typedef struct _AVLTreeNode AVLTreeNode;$/;"	t	typeref:struct:_AVLTreeNode
+AVLTreeNodeSide	src/avl-tree.h	/^} AVLTreeNodeSide;$/;"	t	typeref:enum:__anon5
+AVLTreeValue	src/avl-tree.h	/^typedef void *AVLTreeValue;$/;"	t
+AVL_TREE_NODE_LEFT	src/avl-tree.h	/^	AVL_TREE_NODE_LEFT = 0,$/;"	e	enum:__anon5
+AVL_TREE_NODE_RIGHT	src/avl-tree.h	/^	AVL_TREE_NODE_RIGHT = 1$/;"	e	enum:__anon5
+AVL_TREE_NULL	src/avl-tree.h	85;"	d
+AWK	Makefile	/^AWK = mawk$/;"	m
+AWK	doc/Makefile	/^AWK = mawk$/;"	m
+AWK	src/Makefile	/^AWK = mawk$/;"	m
+AWK	test/Makefile	/^AWK = mawk$/;"	m
+ArrayList	src/arraylist.h	/^typedef struct _ArrayList ArrayList;$/;"	t	typeref:struct:_ArrayList
+ArrayListCompareFunc	src/arraylist.h	/^typedef int (*ArrayListCompareFunc)(ArrayListValue value1,$/;"	t
+ArrayListEqualFunc	src/arraylist.h	/^typedef int (*ArrayListEqualFunc)(ArrayListValue value1, ArrayListValue value2);$/;"	t
+ArrayListValue	src/arraylist.h	/^typedef void *ArrayListValue;$/;"	t
+BINARY_HEAP_NULL	src/binary-heap.h	73;"	d
+BINARY_HEAP_TYPE_MAX	src/binary-heap.h	/^	BINARY_HEAP_TYPE_MAX$/;"	e	enum:__anon2
+BINARY_HEAP_TYPE_MIN	src/binary-heap.h	/^	BINARY_HEAP_TYPE_MIN,$/;"	e	enum:__anon2
+BINOMIAL_HEAP_NULL	src/binomial-heap.h	73;"	d
+BINOMIAL_HEAP_TYPE_MAX	src/binomial-heap.h	/^	BINOMIAL_HEAP_TYPE_MAX$/;"	e	enum:__anon1
+BINOMIAL_HEAP_TYPE_MIN	src/binomial-heap.h	/^	BINOMIAL_HEAP_TYPE_MIN,$/;"	e	enum:__anon1
+BinaryHeap	src/binary-heap.h	/^typedef struct _BinaryHeap BinaryHeap;$/;"	t	typeref:struct:_BinaryHeap
+BinaryHeapCompareFunc	src/binary-heap.h	/^typedef int (*BinaryHeapCompareFunc)(BinaryHeapValue value1,$/;"	t
+BinaryHeapType	src/binary-heap.h	/^} BinaryHeapType;$/;"	t	typeref:enum:__anon2
+BinaryHeapValue	src/binary-heap.h	/^typedef void *BinaryHeapValue;$/;"	t
+BinomialHeap	src/binomial-heap.h	/^typedef struct _BinomialHeap BinomialHeap;$/;"	t	typeref:struct:_BinomialHeap
+BinomialHeapCompareFunc	src/binomial-heap.h	/^typedef int (*BinomialHeapCompareFunc)(BinomialHeapValue value1, $/;"	t
+BinomialHeapType	src/binomial-heap.h	/^} BinomialHeapType;$/;"	t	typeref:enum:__anon1
+BinomialHeapValue	src/binomial-heap.h	/^typedef void *BinomialHeapValue;$/;"	t
+BinomialTree	src/binomial-heap.c	/^typedef struct _BinomialTree BinomialTree;$/;"	t	typeref:struct:_BinomialTree	file:
+BlockHeader	test/alloc-testing.c	/^typedef struct _BlockHeader BlockHeader;$/;"	t	typeref:struct:_BlockHeader	file:
+BloomFilter	src/bloom-filter.h	/^typedef struct _BloomFilter BloomFilter;$/;"	t	typeref:struct:_BloomFilter
+BloomFilterHashFunc	src/bloom-filter.h	/^typedef unsigned int (*BloomFilterHashFunc)(BloomFilterValue data);$/;"	t
+BloomFilterValue	src/bloom-filter.h	/^typedef void *BloomFilterValue;$/;"	t
+CALG_HEADERFILES	src/Makefile	/^CALG_HEADERFILES = \\$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CC	doc/Makefile	/^CC = gcc$/;"	m
+CC	src/Makefile	/^CC = gcc$/;"	m
+CC	test/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	doc/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	src/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	test/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	src/Makefile	/^CCLD = $(CC)$/;"	m
+CCLD	test/Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	Makefile	/^CFLAGS = $/;"	m
+CFLAGS	doc/Makefile	/^CFLAGS = $/;"	m
+CFLAGS	src/Makefile	/^CFLAGS = $/;"	m
+CFLAGS	test/Makefile	/^CFLAGS = $/;"	m
+COMPILE	src/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+COMPILE	test/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES = libcalg-1.0.pc$/;"	m
+CONFIG_CLEAN_FILES	doc/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	src/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	test/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	doc/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	src/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	test/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = config.h$/;"	m
+CONFIG_HEADER	doc/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	src/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	test/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPP	doc/Makefile	/^CPP = gcc -E$/;"	m
+CPP	src/Makefile	/^CPP = gcc -E$/;"	m
+CPP	test/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	doc/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	src/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	test/Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	src/Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	test/Makefile	/^CTAGS = ctags$/;"	m
+CXX	Makefile	/^CXX = g++$/;"	m
+CXX	doc/Makefile	/^CXX = g++$/;"	m
+CXX	src/Makefile	/^CXX = g++$/;"	m
+CXX	test/Makefile	/^CXX = g++$/;"	m
+CXXCOMPILE	test/Makefile	/^CXXCOMPILE = $(CXX) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) \\$/;"	m
+CXXCPP	Makefile	/^CXXCPP = g++ -E$/;"	m
+CXXCPP	doc/Makefile	/^CXXCPP = g++ -E$/;"	m
+CXXCPP	src/Makefile	/^CXXCPP = g++ -E$/;"	m
+CXXCPP	test/Makefile	/^CXXCPP = g++ -E$/;"	m
+CXXDEPMODE	Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	doc/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	src/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	test/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXFLAGS	Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	doc/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	src/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	test/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXLD	test/Makefile	/^CXXLD = $(CXX)$/;"	m
+CXXLINK	test/Makefile	/^CXXLINK = $(LIBTOOL) --tag=CXX $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	doc/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	src/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	test/Makefile	/^CYGPATH_W = echo$/;"	m
+CreateProcess	autotools/ltmain.sh	/^   CreateProcess().  We must quote the arguments since Win32 CreateProcess()$/;"	f
+CreateProcess	libtool	/^   CreateProcess().  We must quote the arguments since Win32 CreateProcess()$/;"	f
+DATA	Makefile	/^DATA = $(pkgconfig_DATA)$/;"	m
+DEFAULT_INCLUDES	src/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFAULT_INCLUDES	test/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	doc/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	src/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	test/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	doc/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	src/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	test/Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	doc/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	src/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	test/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_ARCHIVES	Makefile	/^DIST_ARCHIVES = $(distdir).tar.gz$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = README $(am__configure_deps) $(srcdir)\/Makefile.am \\$/;"	m
+DIST_COMMON	doc/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_COMMON	src/Makefile	/^DIST_COMMON = $(calgheaderfiles_HEADERS) $(headerfiles_HEADERS) \\$/;"	m
+DIST_COMMON	test/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	doc/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	src/Makefile	/^DIST_SOURCES = $(libcalgtest_a_SOURCES) $(libcalg_la_SOURCES)$/;"	m
+DIST_SOURCES	test/Makefile	/^DIST_SOURCES = $(libtestframework_a_SOURCES) test-alloc-testing.c \\$/;"	m
+DIST_SUBDIRS	Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+DLLTOOL	Makefile	/^DLLTOOL = false$/;"	m
+DLLTOOL	doc/Makefile	/^DLLTOOL = false$/;"	m
+DLLTOOL	src/Makefile	/^DLLTOOL = false$/;"	m
+DLLTOOL	test/Makefile	/^DLLTOOL = false$/;"	m
+DSYMUTIL	Makefile	/^DSYMUTIL = $/;"	m
+DSYMUTIL	doc/Makefile	/^DSYMUTIL = $/;"	m
+DSYMUTIL	src/Makefile	/^DSYMUTIL = $/;"	m
+DSYMUTIL	test/Makefile	/^DSYMUTIL = $/;"	m
+DUMPBIN	Makefile	/^DUMPBIN = $/;"	m
+DUMPBIN	doc/Makefile	/^DUMPBIN = $/;"	m
+DUMPBIN	src/Makefile	/^DUMPBIN = $/;"	m
+DUMPBIN	test/Makefile	/^DUMPBIN = $/;"	m
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_C	doc/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	src/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	test/Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	doc/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	src/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	test/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+ECHO_T	doc/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	src/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	test/Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	doc/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	src/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	test/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+ETAGS	src/Makefile	/^ETAGS = etags$/;"	m
+ETAGS	test/Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXEEXT	doc/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	src/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	test/Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	Makefile	/^EXTRA_DIST = $(AUX_DIST_GEN) libcalg-1.0.pc.in $/;"	m
+EXTRA_DIST	doc/Makefile	/^EXTRA_DIST = html Doxyfile intro.h$/;"	m
+EXTRA_DIST	src/Makefile	/^EXTRA_DIST = gencov$/;"	m
+EXTRA_DIST	test/Makefile	/^EXTRA_DIST = valgrind-wrapper$/;"	m
+FGREP	Makefile	/^FGREP = \/bin\/grep -F$/;"	m
+FGREP	doc/Makefile	/^FGREP = \/bin\/grep -F$/;"	m
+FGREP	src/Makefile	/^FGREP = \/bin\/grep -F$/;"	m
+FGREP	test/Makefile	/^FGREP = \/bin\/grep -F$/;"	m
+FREE_PATTERN	test/alloc-testing.c	44;"	d	file:
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	doc/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	src/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	test/Makefile	/^GREP = \/bin\/grep$/;"	m
+GZIP_ENV	Makefile	/^GZIP_ENV = --best$/;"	m
+HASH_TABLE_NULL	src/hash-table.h	96;"	d
+HAVE_DLFCN_H	config.h	5;"	d
+HAVE_INTTYPES_H	config.h	8;"	d
+HAVE_MEMORY_H	config.h	11;"	d
+HAVE_STDINT_H	config.h	14;"	d
+HAVE_STDLIB_H	config.h	17;"	d
+HAVE_STRINGS_H	config.h	20;"	d
+HAVE_STRING_H	config.h	23;"	d
+HAVE_SYS_STAT_H	config.h	26;"	d
+HAVE_SYS_TYPES_H	config.h	29;"	d
+HAVE_UNISTD_H	config.h	32;"	d
+HAVE_VALGRIND	Makefile	/^HAVE_VALGRIND = $/;"	m
+HAVE_VALGRIND	doc/Makefile	/^HAVE_VALGRIND = $/;"	m
+HAVE_VALGRIND	src/Makefile	/^HAVE_VALGRIND = $/;"	m
+HAVE_VALGRIND	test/Makefile	/^HAVE_VALGRIND = $/;"	m
+HEADERS	src/Makefile	/^HEADERS = $(calgheaderfiles_HEADERS) $(headerfiles_HEADERS)$/;"	m
+HashTable	src/hash-table.h	/^typedef struct _HashTable HashTable;$/;"	t	typeref:struct:_HashTable
+HashTableEntry	src/hash-table.h	/^typedef struct _HashTableEntry HashTableEntry;$/;"	t	typeref:struct:_HashTableEntry
+HashTableEqualFunc	src/hash-table.h	/^typedef int (*HashTableEqualFunc)(HashTableKey value1, HashTableKey value2);$/;"	t
+HashTableHashFunc	src/hash-table.h	/^typedef unsigned int (*HashTableHashFunc)(HashTableKey value);$/;"	t
+HashTableIterator	src/hash-table.h	/^typedef struct _HashTableIterator HashTableIterator;$/;"	t	typeref:struct:_HashTableIterator
+HashTableKey	src/hash-table.h	/^typedef void *HashTableKey;$/;"	t
+HashTableKeyFreeFunc	src/hash-table.h	/^typedef void (*HashTableKeyFreeFunc)(HashTableKey value);$/;"	t
+HashTableValue	src/hash-table.h	/^typedef void *HashTableValue;$/;"	t
+HashTableValueFreeFunc	src/hash-table.h	/^typedef void (*HashTableValueFreeFunc)(HashTableValue value);$/;"	t
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	doc/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	src/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	test/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	doc/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	src/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	test/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	doc/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	src/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	test/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	doc/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	src/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	test/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	doc/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	test/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	doc/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	src/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	test/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+LD	Makefile	/^LD = \/usr\/bin\/ld$/;"	m
+LD	doc/Makefile	/^LD = \/usr\/bin\/ld$/;"	m
+LD	src/Makefile	/^LD = \/usr\/bin\/ld$/;"	m
+LD	test/Makefile	/^LD = \/usr\/bin\/ld$/;"	m
+LDADD	test/Makefile	/^LDADD = $(top_builddir)\/src\/libcalgtest.a libtestframework.a$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	doc/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	src/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	test/Makefile	/^LDFLAGS = $/;"	m
+LIBCALG_H	src/libcalg.h	22;"	d
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	doc/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	src/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	test/Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS = $/;"	m
+LIBS	doc/Makefile	/^LIBS = $/;"	m
+LIBS	src/Makefile	/^LIBS = $/;"	m
+LIBS	test/Makefile	/^LIBS = $/;"	m
+LIBTOOL	Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LIBTOOL	doc/Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LIBTOOL	src/Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LIBTOOL	test/Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LINK	src/Makefile	/^LINK = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m
+LINK	test/Makefile	/^LINK = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m
+LIPO	Makefile	/^LIPO = $/;"	m
+LIPO	doc/Makefile	/^LIPO = $/;"	m
+LIPO	src/Makefile	/^LIPO = $/;"	m
+LIPO	test/Makefile	/^LIPO = $/;"	m
+LIST_NULL	src/list.h	95;"	d
+LN_S	Makefile	/^LN_S = ln -s$/;"	m
+LN_S	doc/Makefile	/^LN_S = ln -s$/;"	m
+LN_S	src/Makefile	/^LN_S = ln -s$/;"	m
+LN_S	test/Makefile	/^LN_S = ln -s$/;"	m
+LONG_STRING_LEN	test/test-trie.c	239;"	d	file:
+LTCOMPILE	src/Makefile	/^LTCOMPILE = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m
+LTCOMPILE	test/Makefile	/^LTCOMPILE = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m
+LTCXXCOMPILE	test/Makefile	/^LTCXXCOMPILE = $(LIBTOOL) --tag=CXX $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	doc/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	src/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	test/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBRARIES	src/Makefile	/^LTLIBRARIES = $(lib_LTLIBRARIES)$/;"	m
+LT_OBJDIR	config.h	36;"	d
+ListCompareFunc	src/list.h	/^typedef int (*ListCompareFunc)(ListValue value1, ListValue value2);$/;"	t
+ListEntry	src/list.h	/^typedef struct _ListEntry ListEntry;$/;"	t	typeref:struct:_ListEntry
+ListEqualFunc	src/list.h	/^typedef int (*ListEqualFunc)(ListValue value1, ListValue value2);$/;"	t
+ListIterator	src/list.h	/^typedef struct _ListIterator ListIterator;$/;"	t	typeref:struct:_ListIterator
+ListValue	src/list.h	/^typedef void *ListValue;$/;"	t
+MAINTAINERCLEANFILES	Makefile	/^MAINTAINERCLEANFILES = $(AUX_DIST_GEN)$/;"	m
+MAIN_CFLAGS	Makefile	/^MAIN_CFLAGS = -g -O2 -Wall -Wsign-compare -Wconversion$/;"	m
+MAIN_CFLAGS	doc/Makefile	/^MAIN_CFLAGS = -g -O2 -Wall -Wsign-compare -Wconversion$/;"	m
+MAIN_CFLAGS	src/Makefile	/^MAIN_CFLAGS = -g -O2 -Wall -Wsign-compare -Wconversion$/;"	m
+MAIN_CFLAGS	test/Makefile	/^MAIN_CFLAGS = -g -O2 -Wall -Wsign-compare -Wconversion$/;"	m
+MAIN_HEADERFILES	src/Makefile	/^MAIN_HEADERFILES = libcalg.h$/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run makeinfo$/;"	m
+MAKEINFO	doc/Makefile	/^MAKEINFO = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run makeinfo$/;"	m
+MAKEINFO	src/Makefile	/^MAKEINFO = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run makeinfo$/;"	m
+MAKEINFO	test/Makefile	/^MAKEINFO = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/missing --run makeinfo$/;"	m
+MALLOC_PATTERN	test/alloc-testing.c	39;"	d	file:
+MANIFEST_TOOL	Makefile	/^MANIFEST_TOOL = :$/;"	m
+MANIFEST_TOOL	doc/Makefile	/^MANIFEST_TOOL = :$/;"	m
+MANIFEST_TOOL	src/Makefile	/^MANIFEST_TOOL = :$/;"	m
+MANIFEST_TOOL	test/Makefile	/^MANIFEST_TOOL = :$/;"	m
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	doc/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	src/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	test/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+NM	Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m
+NM	doc/Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m
+NM	src/Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m
+NM	test/Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m
+NMEDIT	Makefile	/^NMEDIT = $/;"	m
+NMEDIT	doc/Makefile	/^NMEDIT = $/;"	m
+NMEDIT	src/Makefile	/^NMEDIT = $/;"	m
+NMEDIT	test/Makefile	/^NMEDIT = $/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	doc/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	src/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	test/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	doc/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	test/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NUM_TEST_VALUES	test/test-avl-tree.c	31;"	d	file:
+NUM_TEST_VALUES	test/test-binary-heap.c	30;"	d	file:
+NUM_TEST_VALUES	test/test-binomial-heap.c	30;"	d	file:
+NUM_TEST_VALUES	test/test-hash-functions.c	32;"	d	file:
+NUM_TEST_VALUES	test/test-hash-table.c	35;"	d	file:
+NUM_TEST_VALUES	test/test-rb-tree.c	31;"	d	file:
+NUM_TEST_VALUES	test/test-trie.c	31;"	d	file:
+OBJDUMP	Makefile	/^OBJDUMP = objdump$/;"	m
+OBJDUMP	doc/Makefile	/^OBJDUMP = objdump$/;"	m
+OBJDUMP	src/Makefile	/^OBJDUMP = objdump$/;"	m
+OBJDUMP	test/Makefile	/^OBJDUMP = objdump$/;"	m
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	doc/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	src/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	test/Makefile	/^OBJEXT = o$/;"	m
+OTOOL	Makefile	/^OTOOL = $/;"	m
+OTOOL	doc/Makefile	/^OTOOL = $/;"	m
+OTOOL	src/Makefile	/^OTOOL = $/;"	m
+OTOOL	test/Makefile	/^OTOOL = $/;"	m
+OTOOL64	Makefile	/^OTOOL64 = $/;"	m
+OTOOL64	doc/Makefile	/^OTOOL64 = $/;"	m
+OTOOL64	src/Makefile	/^OTOOL64 = $/;"	m
+OTOOL64	test/Makefile	/^OTOOL64 = $/;"	m
+PACKAGE	Makefile	/^PACKAGE = c-algorithms$/;"	m
+PACKAGE	doc/Makefile	/^PACKAGE = c-algorithms$/;"	m
+PACKAGE	src/Makefile	/^PACKAGE = c-algorithms$/;"	m
+PACKAGE	test/Makefile	/^PACKAGE = c-algorithms$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = fraggle@users.sourceforge.net$/;"	m
+PACKAGE_BUGREPORT	config.h	39;"	d
+PACKAGE_BUGREPORT	doc/Makefile	/^PACKAGE_BUGREPORT = fraggle@users.sourceforge.net$/;"	m
+PACKAGE_BUGREPORT	src/Makefile	/^PACKAGE_BUGREPORT = fraggle@users.sourceforge.net$/;"	m
+PACKAGE_BUGREPORT	test/Makefile	/^PACKAGE_BUGREPORT = fraggle@users.sourceforge.net$/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = C Algorithms$/;"	m
+PACKAGE_NAME	config.h	42;"	d
+PACKAGE_NAME	doc/Makefile	/^PACKAGE_NAME = C Algorithms$/;"	m
+PACKAGE_NAME	src/Makefile	/^PACKAGE_NAME = C Algorithms$/;"	m
+PACKAGE_NAME	test/Makefile	/^PACKAGE_NAME = C Algorithms$/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = C Algorithms 1.2.0$/;"	m
+PACKAGE_STRING	config.h	45;"	d
+PACKAGE_STRING	doc/Makefile	/^PACKAGE_STRING = C Algorithms 1.2.0$/;"	m
+PACKAGE_STRING	src/Makefile	/^PACKAGE_STRING = C Algorithms 1.2.0$/;"	m
+PACKAGE_STRING	test/Makefile	/^PACKAGE_STRING = C Algorithms 1.2.0$/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = c-algorithms$/;"	m
+PACKAGE_TARNAME	config.h	48;"	d
+PACKAGE_TARNAME	doc/Makefile	/^PACKAGE_TARNAME = c-algorithms$/;"	m
+PACKAGE_TARNAME	src/Makefile	/^PACKAGE_TARNAME = c-algorithms$/;"	m
+PACKAGE_TARNAME	test/Makefile	/^PACKAGE_TARNAME = c-algorithms$/;"	m
+PACKAGE_URL	Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_URL	config.h	51;"	d
+PACKAGE_URL	doc/Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_URL	src/Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_URL	test/Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 1.2.0$/;"	m
+PACKAGE_VERSION	config.h	54;"	d
+PACKAGE_VERSION	doc/Makefile	/^PACKAGE_VERSION = 1.2.0$/;"	m
+PACKAGE_VERSION	src/Makefile	/^PACKAGE_VERSION = 1.2.0$/;"	m
+PACKAGE_VERSION	test/Makefile	/^PACKAGE_VERSION = 1.2.0$/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	doc/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	src/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	test/Makefile	/^PATH_SEPARATOR = :$/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	doc/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	src/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	test/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	doc/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	src/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	test/Makefile	/^POST_UNINSTALL = :$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	doc/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	src/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	test/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	doc/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	src/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	test/Makefile	/^PRE_UNINSTALL = :$/;"	m
+QUEUE_NULL	src/queue.h	64;"	d
+Queue	src/queue.h	/^typedef struct _Queue Queue;$/;"	t	typeref:struct:_Queue
+QueueEntry	src/queue.c	/^typedef struct _QueueEntry QueueEntry;$/;"	t	typeref:struct:_QueueEntry	file:
+QueueValue	src/queue.h	/^typedef void *QueueValue;$/;"	t
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	doc/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	src/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	test/Makefile	/^RANLIB = ranlib$/;"	m
+RBTree	src/rb-tree.h	/^typedef struct _RBTree RBTree;$/;"	t	typeref:struct:_RBTree
+RBTreeCompareFunc	src/rb-tree.h	/^typedef int (*RBTreeCompareFunc)(RBTreeValue data1, RBTreeValue data2);$/;"	t
+RBTreeKey	src/rb-tree.h	/^typedef void *RBTreeKey;$/;"	t
+RBTreeNode	src/rb-tree.h	/^typedef struct _RBTreeNode RBTreeNode;$/;"	t	typeref:struct:_RBTreeNode
+RBTreeNodeColor	src/rb-tree.h	/^} RBTreeNodeColor;$/;"	t	typeref:enum:__anon3
+RBTreeNodeSide	src/rb-tree.h	/^} RBTreeNodeSide;$/;"	t	typeref:enum:__anon4
+RBTreeValue	src/rb-tree.h	/^typedef void *RBTreeValue;$/;"	t
+RB_TREE_NODE_BLACK	src/rb-tree.h	/^	RB_TREE_NODE_BLACK,$/;"	e	enum:__anon3
+RB_TREE_NODE_LEFT	src/rb-tree.h	/^	RB_TREE_NODE_LEFT = 0,$/;"	e	enum:__anon4
+RB_TREE_NODE_RED	src/rb-tree.h	/^	RB_TREE_NODE_RED,$/;"	e	enum:__anon3
+RB_TREE_NODE_RIGHT	src/rb-tree.h	/^	RB_TREE_NODE_RIGHT = 1$/;"	e	enum:__anon4
+RB_TREE_NULL	src/rb-tree.h	86;"	d
+RECURSIVE_CLEAN_TARGETS	Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m
+RECURSIVE_TARGETS	Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive dvi-recursive \\$/;"	m
+SED	Makefile	/^SED = \/bin\/sed$/;"	m
+SED	doc/Makefile	/^SED = \/bin\/sed$/;"	m
+SED	src/Makefile	/^SED = \/bin\/sed$/;"	m
+SED	test/Makefile	/^SED = \/bin\/sed$/;"	m
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	doc/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	src/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	test/Makefile	/^SET_MAKE = $/;"	m
+SET_NULL	src/set.h	95;"	d
+SHELL	Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	doc/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	src/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	test/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SLIST_NULL	src/slist.h	107;"	d
+SListCompareFunc	src/slist.h	/^typedef int (*SListCompareFunc)(SListValue value1, SListValue value2);$/;"	t
+SListEntry	src/slist.h	/^typedef struct _SListEntry SListEntry;$/;"	t	typeref:struct:_SListEntry
+SListEqualFunc	src/slist.h	/^typedef int (*SListEqualFunc)(SListValue value1, SListValue value2);$/;"	t
+SListIterator	src/slist.h	/^typedef struct _SListIterator SListIterator;$/;"	t	typeref:struct:_SListIterator
+SListValue	src/slist.h	/^typedef void *SListValue;$/;"	t
+SOURCES	Makefile	/^SOURCES =$/;"	m
+SOURCES	doc/Makefile	/^SOURCES =$/;"	m
+SOURCES	src/Makefile	/^SOURCES = $(libcalgtest_a_SOURCES) $(libcalg_la_SOURCES)$/;"	m
+SOURCES	test/Makefile	/^SOURCES = $(libtestframework_a_SOURCES) test-alloc-testing.c \\$/;"	m
+SRC	src/Makefile	/^SRC = \\$/;"	m
+STDC_HEADERS	config.h	57;"	d
+STRIP	Makefile	/^STRIP = strip$/;"	m
+STRIP	doc/Makefile	/^STRIP = strip$/;"	m
+STRIP	src/Makefile	/^STRIP = strip$/;"	m
+STRIP	test/Makefile	/^STRIP = strip$/;"	m
+SUBDIRS	Makefile	/^SUBDIRS = src test doc$/;"	m
+Set	src/set.h	/^typedef struct _Set Set;$/;"	t	typeref:struct:_Set
+SetEntry	src/set.h	/^typedef struct _SetEntry SetEntry;$/;"	t	typeref:struct:_SetEntry
+SetEqualFunc	src/set.h	/^typedef int (*SetEqualFunc)(SetValue value1, SetValue value2);$/;"	t
+SetFreeFunc	src/set.h	/^typedef void (*SetFreeFunc)(SetValue value);$/;"	t
+SetHashFunc	src/set.h	/^typedef unsigned int (*SetHashFunc)(SetValue value);$/;"	t
+SetIterator	src/set.h	/^typedef struct _SetIterator SetIterator;$/;"	t	typeref:struct:_SetIterator
+SetValue	src/set.h	/^typedef void *SetValue;$/;"	t
+TESTS	test/Makefile	/^TESTS = test-alloc-testing$(EXEEXT) test-arraylist$(EXEEXT) \\$/;"	m
+TEST_CFLAGS	Makefile	/^TEST_CFLAGS =  -Wall -Wsign-compare -Wconversion -O0$/;"	m
+TEST_CFLAGS	doc/Makefile	/^TEST_CFLAGS =  -Wall -Wsign-compare -Wconversion -O0$/;"	m
+TEST_CFLAGS	src/Makefile	/^TEST_CFLAGS =  -Wall -Wsign-compare -Wconversion -O0$/;"	m
+TEST_CFLAGS	test/Makefile	/^TEST_CFLAGS =  -Wall -Wsign-compare -Wconversion -O0$/;"	m
+TEST_FRAMEWORK_H	test/framework.h	22;"	d
+TEST_VALUE	test/test-binomial-heap.c	138;"	d	file:
+TRIE_NULL	src/trie.h	63;"	d
+Trie	src/trie.h	/^typedef struct _Trie Trie;$/;"	t	typeref:struct:_Trie
+TrieNode	src/trie.c	/^typedef struct _TrieNode TrieNode;$/;"	t	typeref:struct:_TrieNode	file:
+TrieValue	src/trie.h	/^typedef void *TrieValue;$/;"	t
+UnitTestFunction	test/framework.h	/^typedef void (*UnitTestFunction)(void);$/;"	t
+VERSION	Makefile	/^VERSION = 1.2.0$/;"	m
+VERSION	doc/Makefile	/^VERSION = 1.2.0$/;"	m
+VERSION	src/Makefile	/^VERSION = 1.2.0$/;"	m
+VERSION	test/Makefile	/^VERSION = 1.2.0$/;"	m
+_AVLTree	src/avl-tree.c	/^struct _AVLTree {$/;"	s	file:
+_AVLTreeNode	src/avl-tree.c	/^struct _AVLTreeNode {$/;"	s	file:
+_ArrayList	src/arraylist.h	/^struct _ArrayList {$/;"	s
+_BinaryHeap	src/binary-heap.c	/^struct _BinaryHeap {$/;"	s	file:
+_BinomialHeap	src/binomial-heap.c	/^struct _BinomialHeap$/;"	s	file:
+_BinomialTree	src/binomial-heap.c	/^struct _BinomialTree$/;"	s	file:
+_BlockHeader	test/alloc-testing.c	/^struct _BlockHeader {$/;"	s	file:
+_BloomFilter	src/bloom-filter.c	/^struct _BloomFilter {$/;"	s	file:
+_HashTable	src/hash-table.c	/^struct _HashTable {$/;"	s	file:
+_HashTableEntry	src/hash-table.c	/^struct _HashTableEntry {$/;"	s	file:
+_HashTableIterator	src/hash-table.h	/^struct _HashTableIterator {$/;"	s
+_ListEntry	src/list.c	/^struct _ListEntry {$/;"	s	file:
+_ListIterator	src/list.h	/^struct _ListIterator {$/;"	s
+_Queue	src/queue.c	/^struct _Queue {$/;"	s	file:
+_QueueEntry	src/queue.c	/^struct _QueueEntry {$/;"	s	file:
+_RBTree	src/rb-tree.c	/^struct _RBTree {$/;"	s	file:
+_RBTreeNode	src/rb-tree.c	/^struct _RBTreeNode {$/;"	s	file:
+_SListEntry	src/slist.c	/^struct _SListEntry {$/;"	s	file:
+_SListIterator	src/slist.h	/^struct _SListIterator {$/;"	s
+_Set	src/set.c	/^struct _Set {$/;"	s	file:
+_SetEntry	src/set.c	/^struct _SetEntry {$/;"	s	file:
+_SetIterator	src/set.h	/^struct _SetIterator {$/;"	s
+_Trie	src/trie.c	/^struct _Trie {$/;"	s	file:
+_TrieNode	src/trie.c	/^struct _TrieNode {$/;"	s	file:
+_alloced	src/arraylist.h	/^	unsigned int _alloced;$/;"	m	struct:_ArrayList
+abs_builddir	Makefile	/^abs_builddir = \/home\/cocui\/c-algorithms-master$/;"	m
+abs_builddir	doc/Makefile	/^abs_builddir = \/home\/cocui\/c-algorithms-master\/doc$/;"	m
+abs_builddir	src/Makefile	/^abs_builddir = \/home\/cocui\/c-algorithms-master\/src$/;"	m
+abs_builddir	test/Makefile	/^abs_builddir = \/home\/cocui\/c-algorithms-master\/test$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/cocui\/c-algorithms-master$/;"	m
+abs_srcdir	doc/Makefile	/^abs_srcdir = \/home\/cocui\/c-algorithms-master\/doc$/;"	m
+abs_srcdir	src/Makefile	/^abs_srcdir = \/home\/cocui\/c-algorithms-master\/src$/;"	m
+abs_srcdir	test/Makefile	/^abs_srcdir = \/home\/cocui\/c-algorithms-master\/test$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/cocui\/c-algorithms-master$/;"	m
+abs_top_builddir	doc/Makefile	/^abs_top_builddir = \/home\/cocui\/c-algorithms-master$/;"	m
+abs_top_builddir	src/Makefile	/^abs_top_builddir = \/home\/cocui\/c-algorithms-master$/;"	m
+abs_top_builddir	test/Makefile	/^abs_top_builddir = \/home\/cocui\/c-algorithms-master$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/cocui\/c-algorithms-master$/;"	m
+abs_top_srcdir	doc/Makefile	/^abs_top_srcdir = \/home\/cocui\/c-algorithms-master$/;"	m
+abs_top_srcdir	src/Makefile	/^abs_top_srcdir = \/home\/cocui\/c-algorithms-master$/;"	m
+abs_top_srcdir	test/Makefile	/^abs_top_srcdir = \/home\/cocui\/c-algorithms-master$/;"	m
+ac_aux_dir	Makefile	/^ac_aux_dir = autotools$/;"	m
+ac_aux_dir	doc/Makefile	/^ac_aux_dir = autotools$/;"	m
+ac_aux_dir	src/Makefile	/^ac_aux_dir = autotools$/;"	m
+ac_aux_dir	test/Makefile	/^ac_aux_dir = autotools$/;"	m
+ac_ct_AR	Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_AR	doc/Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_AR	src/Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_AR	test/Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	doc/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	src/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	test/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CXX	Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	doc/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	src/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	test/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_DUMPBIN	Makefile	/^ac_ct_DUMPBIN = $/;"	m
+ac_ct_DUMPBIN	doc/Makefile	/^ac_ct_DUMPBIN = $/;"	m
+ac_ct_DUMPBIN	src/Makefile	/^ac_ct_DUMPBIN = $/;"	m
+ac_ct_DUMPBIN	test/Makefile	/^ac_ct_DUMPBIN = $/;"	m
+ac_fn_c_check_func	configure	/^ac_fn_c_check_func ()$/;"	f
+ac_fn_c_check_header_compile	configure	/^ac_fn_c_check_header_compile ()$/;"	f
+ac_fn_c_try_compile	configure	/^ac_fn_c_try_compile ()$/;"	f
+ac_fn_c_try_cpp	configure	/^ac_fn_c_try_cpp ()$/;"	f
+ac_fn_c_try_link	configure	/^ac_fn_c_try_link ()$/;"	f
+ac_fn_c_try_run	configure	/^ac_fn_c_try_run ()$/;"	f
+ac_fn_cxx_try_compile	configure	/^ac_fn_cxx_try_compile ()$/;"	f
+ac_fn_cxx_try_cpp	configure	/^ac_fn_cxx_try_cpp ()$/;"	f
+ac_fn_cxx_try_link	configure	/^ac_fn_cxx_try_link ()$/;"	f
+alloc_test_calloc	test/alloc-testing.c	/^void *alloc_test_calloc(size_t nmemb, size_t bytes)$/;"	f
+alloc_test_free	test/alloc-testing.c	/^void alloc_test_free(void *ptr)$/;"	f
+alloc_test_get_allocated	test/alloc-testing.c	/^size_t alloc_test_get_allocated(void)$/;"	f
+alloc_test_get_header	test/alloc-testing.c	/^static BlockHeader *alloc_test_get_header(void *ptr)$/;"	f	file:
+alloc_test_malloc	test/alloc-testing.c	/^void *alloc_test_malloc(size_t bytes)$/;"	f
+alloc_test_overwrite	test/alloc-testing.c	/^static void alloc_test_overwrite(void *ptr, size_t length, unsigned int pattern)$/;"	f	file:
+alloc_test_realloc	test/alloc-testing.c	/^void *alloc_test_realloc(void *ptr, size_t bytes)$/;"	f
+alloc_test_set_limit	test/alloc-testing.c	/^void alloc_test_set_limit(signed int alloc_count)$/;"	f
+alloc_test_strdup	test/alloc-testing.c	/^char *alloc_test_strdup(const char *string)$/;"	f
+allocated_bytes	test/alloc-testing.c	/^static size_t allocated_bytes = 0;$/;"	v	file:
+allocated_keys	test/test-hash-table.c	/^int allocated_keys = 0;$/;"	v
+allocated_values	test/test-hash-table.c	/^int allocated_values = 0;$/;"	v
+allocated_values	test/test-set.c	/^int allocated_values;$/;"	v
+allocation_limit	test/alloc-testing.c	/^signed int allocation_limit = -1;$/;"	v
+alloced_size	src/binary-heap.c	/^	unsigned int alloced_size;$/;"	m	struct:_BinaryHeap	file:
+am__CONFIG_DISTCLEAN_FILES	Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m
+am__EXEEXT_1	test/Makefile	/^am__EXEEXT_1 = test-alloc-testing$(EXEEXT) test-arraylist$(EXEEXT) \\$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	doc/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	src/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	test/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__base_list	Makefile	/^am__base_list = \\$/;"	m
+am__base_list	src/Makefile	/^am__base_list = \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	doc/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	src/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	test/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	doc/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	src/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	test/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__depfiles_maybe	src/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__depfiles_maybe	test/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__distuninstallcheck_listfiles	Makefile	/^am__distuninstallcheck_listfiles = $(distuninstallcheck_listfiles) \\$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__include	doc/Makefile	/^am__include = include$/;"	m
+am__include	src/Makefile	/^am__include = include$/;"	m
+am__include	test/Makefile	/^am__include = include$/;"	m
+am__install_max	Makefile	/^am__install_max = 40$/;"	m
+am__install_max	src/Makefile	/^am__install_max = 40$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(pkgconfigdir)"$/;"	m
+am__installdirs	src/Makefile	/^am__installdirs = "$(DESTDIR)$(libdir)" \\$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	doc/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	src/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	test/Makefile	/^am__leading_dot = .$/;"	m
+am__mv	src/Makefile	/^am__mv = mv -f$/;"	m
+am__mv	test/Makefile	/^am__mv = mv -f$/;"	m
+am__nobase_list	Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_list	src/Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_strip	Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip	src/Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip_setup	Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__nobase_strip_setup	src/Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__objects_1	src/Makefile	/^am__objects_1 = libcalgtest_a-arraylist.$(OBJEXT) \\$/;"	m
+am__objects_2	src/Makefile	/^am__objects_2 =$/;"	m
+am__objects_3	src/Makefile	/^am__objects_3 = libcalg_la-arraylist.lo libcalg_la-compare-pointer.lo \\$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__quote	doc/Makefile	/^am__quote = $/;"	m
+am__quote	src/Makefile	/^am__quote = $/;"	m
+am__quote	test/Makefile	/^am__quote = $/;"	m
+am__relativize	Makefile	/^am__relativize = \\$/;"	m
+am__remove_distdir	Makefile	/^am__remove_distdir = \\$/;"	m
+am__strip_dir	Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__strip_dir	src/Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__tar	Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	doc/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	src/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	test/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tty_colors	test/Makefile	/^am__tty_colors = \\$/;"	m
+am__uninstall_files_from_dir	Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__uninstall_files_from_dir	src/Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__untar	Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	doc/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	src/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	test/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__vpath_adj	Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj	src/Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj_setup	Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am__vpath_adj_setup	src/Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am_libcalg_la_OBJECTS	src/Makefile	/^am_libcalg_la_OBJECTS = $(am__objects_3) $(am__objects_2) \\$/;"	m
+am_libcalgtest_a_OBJECTS	src/Makefile	/^am_libcalgtest_a_OBJECTS = $(am__objects_1) $(am__objects_2)$/;"	m
+am_libtestframework_a_OBJECTS	test/Makefile	/^am_libtestframework_a_OBJECTS = alloc-testing.$(OBJEXT) \\$/;"	m
+am_test_cpp_OBJECTS	test/Makefile	/^am_test_cpp_OBJECTS = test-cpp.$(OBJEXT)$/;"	m
+arraylist_append	src/arraylist.c	/^int arraylist_append(ArrayList *arraylist, ArrayListValue data)$/;"	f
+arraylist_clear	src/arraylist.c	/^void arraylist_clear(ArrayList *arraylist)$/;"	f
+arraylist_enlarge	src/arraylist.c	/^static int arraylist_enlarge(ArrayList *arraylist)$/;"	f	file:
+arraylist_free	src/arraylist.c	/^void arraylist_free(ArrayList *arraylist)$/;"	f
+arraylist_index_of	src/arraylist.c	/^int arraylist_index_of(ArrayList *arraylist, $/;"	f
+arraylist_insert	src/arraylist.c	/^int arraylist_insert(ArrayList *arraylist, unsigned int index,$/;"	f
+arraylist_new	src/arraylist.c	/^ArrayList *arraylist_new(unsigned int length)$/;"	f
+arraylist_prepend	src/arraylist.c	/^int arraylist_prepend(ArrayList *arraylist, ArrayListValue data)$/;"	f
+arraylist_remove	src/arraylist.c	/^void arraylist_remove(ArrayList *arraylist, unsigned int index)$/;"	f
+arraylist_remove_range	src/arraylist.c	/^void arraylist_remove_range(ArrayList *arraylist, unsigned int index,$/;"	f
+arraylist_sort	src/arraylist.c	/^void arraylist_sort(ArrayList *arraylist, ArrayListCompareFunc compare_func)$/;"	f
+arraylist_sort_internal	src/arraylist.c	/^static void arraylist_sort_internal(ArrayListValue *list_data,$/;"	f	file:
+as_fn_append	config.status	/^  as_fn_append ()$/;"	f
+as_fn_append	configure	/^  as_fn_append ()$/;"	f
+as_fn_arith	config.status	/^  as_fn_arith ()$/;"	f
+as_fn_arith	configure	/^  as_fn_arith ()$/;"	f
+as_fn_error	config.status	/^as_fn_error ()$/;"	f
+as_fn_error	configure	/^as_fn_error ()$/;"	f
+as_fn_exit	config.status	/^as_fn_exit ()$/;"	f
+as_fn_exit	configure	/^as_fn_exit ()$/;"	f
+as_fn_failure	configure	/^as_fn_failure () { as_fn_return 1; }$/;"	f
+as_fn_mkdir_p	config.status	/^as_fn_mkdir_p ()$/;"	f
+as_fn_mkdir_p	configure	/^as_fn_mkdir_p ()$/;"	f
+as_fn_ret_failure	configure	/^as_fn_ret_failure () { return 1; }$/;"	f
+as_fn_ret_success	configure	/^as_fn_ret_success () { return 0; }$/;"	f
+as_fn_set_status	config.status	/^as_fn_set_status ()$/;"	f
+as_fn_set_status	configure	/^as_fn_set_status ()$/;"	f
+as_fn_success	configure	/^as_fn_success () { as_fn_return 0; }$/;"	f
+as_fn_unset	config.status	/^as_fn_unset ()$/;"	f
+as_fn_unset	configure	/^as_fn_unset ()$/;"	f
+avl_tree_balance_to_root	src/avl-tree.c	/^static void avl_tree_balance_to_root(AVLTree *tree, AVLTreeNode *node)$/;"	f	file:
+avl_tree_free	src/avl-tree.c	/^void avl_tree_free(AVLTree *tree)$/;"	f
+avl_tree_free_subtree	src/avl-tree.c	/^static void avl_tree_free_subtree(AVLTree *tree, AVLTreeNode *node)$/;"	f	file:
+avl_tree_insert	src/avl-tree.c	/^AVLTreeNode *avl_tree_insert(AVLTree *tree, AVLTreeKey key, AVLTreeValue value)$/;"	f
+avl_tree_lookup	src/avl-tree.c	/^AVLTreeValue avl_tree_lookup(AVLTree *tree, AVLTreeKey key)$/;"	f
+avl_tree_lookup_node	src/avl-tree.c	/^AVLTreeNode *avl_tree_lookup_node(AVLTree *tree, AVLTreeKey key)$/;"	f
+avl_tree_new	src/avl-tree.c	/^AVLTree *avl_tree_new(AVLTreeCompareFunc compare_func)$/;"	f
+avl_tree_node_balance	src/avl-tree.c	/^static AVLTreeNode *avl_tree_node_balance(AVLTree *tree, AVLTreeNode *node)$/;"	f	file:
+avl_tree_node_child	src/avl-tree.c	/^AVLTreeNode *avl_tree_node_child(AVLTreeNode *node, AVLTreeNodeSide side)$/;"	f
+avl_tree_node_get_replacement	src/avl-tree.c	/^static AVLTreeNode *avl_tree_node_get_replacement(AVLTree *tree,$/;"	f	file:
+avl_tree_node_key	src/avl-tree.c	/^AVLTreeKey avl_tree_node_key(AVLTreeNode *node)$/;"	f
+avl_tree_node_parent	src/avl-tree.c	/^AVLTreeNode *avl_tree_node_parent(AVLTreeNode *node)$/;"	f
+avl_tree_node_parent_side	src/avl-tree.c	/^static AVLTreeNodeSide avl_tree_node_parent_side(AVLTreeNode *node)$/;"	f	file:
+avl_tree_node_replace	src/avl-tree.c	/^static void avl_tree_node_replace(AVLTree *tree, AVLTreeNode *node1,$/;"	f	file:
+avl_tree_node_value	src/avl-tree.c	/^AVLTreeValue avl_tree_node_value(AVLTreeNode *node)$/;"	f
+avl_tree_num_entries	src/avl-tree.c	/^unsigned int avl_tree_num_entries(AVLTree *tree)$/;"	f
+avl_tree_remove	src/avl-tree.c	/^int avl_tree_remove(AVLTree *tree, AVLTreeKey key)$/;"	f
+avl_tree_remove_node	src/avl-tree.c	/^void avl_tree_remove_node(AVLTree *tree, AVLTreeNode *node)$/;"	f
+avl_tree_root_node	src/avl-tree.c	/^AVLTreeNode *avl_tree_root_node(AVLTree *tree)$/;"	f
+avl_tree_rotate	src/avl-tree.c	/^static AVLTreeNode *avl_tree_rotate(AVLTree *tree, AVLTreeNode *node,$/;"	f	file:
+avl_tree_subtree_height	src/avl-tree.c	/^int avl_tree_subtree_height(AVLTreeNode *node)$/;"	f
+avl_tree_to_array	src/avl-tree.c	/^AVLTreeValue *avl_tree_to_array(AVLTree *tree)$/;"	f
+avl_tree_to_array_add_subtree	src/avl-tree.c	/^static void avl_tree_to_array_add_subtree(AVLTreeNode *subtree, $/;"	f	file:
+avl_tree_update_height	src/avl-tree.c	/^static void avl_tree_update_height(AVLTreeNode *node)$/;"	f	file:
+bin_key	test/test-trie.c	/^unsigned char bin_key[] = { 'a', 'b', 'c', 0, 1, 2, 0xff };$/;"	v
+bin_key2	test/test-trie.c	/^unsigned char bin_key2[] = { 'a', 'b', 'c', 0, 1, 2, 0xff, 0 };$/;"	v
+bin_key3	test/test-trie.c	/^unsigned char bin_key3[] = { 'a', 'b', 'c' };$/;"	v
+bin_key4	test/test-trie.c	/^unsigned char bin_key4[] = { 'z', 0, 'z', 'z' };$/;"	v
+binary_heap_cmp	src/binary-heap.c	/^static int binary_heap_cmp(BinaryHeap *heap, BinaryHeapValue data1, BinaryHeapValue data2)$/;"	f	file:
+binary_heap_free	src/binary-heap.c	/^void binary_heap_free(BinaryHeap *heap)$/;"	f
+binary_heap_insert	src/binary-heap.c	/^int binary_heap_insert(BinaryHeap *heap, BinaryHeapValue value)$/;"	f
+binary_heap_new	src/binary-heap.c	/^BinaryHeap *binary_heap_new(BinaryHeapType heap_type,$/;"	f
+binary_heap_num_entries	src/binary-heap.c	/^unsigned int binary_heap_num_entries(BinaryHeap *heap)$/;"	f
+binary_heap_pop	src/binary-heap.c	/^BinaryHeapValue binary_heap_pop(BinaryHeap *heap)$/;"	f
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	doc/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	src/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	test/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+binomial_heap_cmp	src/binomial-heap.c	/^static int binomial_heap_cmp(BinomialHeap *heap, $/;"	f	file:
+binomial_heap_free	src/binomial-heap.c	/^void binomial_heap_free(BinomialHeap *heap)$/;"	f
+binomial_heap_insert	src/binomial-heap.c	/^int binomial_heap_insert(BinomialHeap *heap, BinomialHeapValue value)$/;"	f
+binomial_heap_merge	src/binomial-heap.c	/^static int binomial_heap_merge(BinomialHeap *heap, BinomialHeap *other)$/;"	f	file:
+binomial_heap_merge_undo	src/binomial-heap.c	/^static void binomial_heap_merge_undo(BinomialTree **new_roots,$/;"	f	file:
+binomial_heap_new	src/binomial-heap.c	/^BinomialHeap *binomial_heap_new(BinomialHeapType heap_type,$/;"	f
+binomial_heap_num_entries	src/binomial-heap.c	/^unsigned int binomial_heap_num_entries(BinomialHeap *heap)$/;"	f
+binomial_heap_pop	src/binomial-heap.c	/^BinomialHeapValue binomial_heap_pop(BinomialHeap *heap)$/;"	f
+binomial_tree_merge	src/binomial-heap.c	/^static BinomialTree *binomial_tree_merge(BinomialHeap *heap,$/;"	f	file:
+binomial_tree_ref	src/binomial-heap.c	/^static void binomial_tree_ref(BinomialTree *tree)$/;"	f	file:
+binomial_tree_unref	src/binomial-heap.c	/^static void binomial_tree_unref(BinomialTree *tree)$/;"	f	file:
+bloom_filter_free	src/bloom-filter.c	/^void bloom_filter_free(BloomFilter *bloomfilter)$/;"	f
+bloom_filter_insert	src/bloom-filter.c	/^void bloom_filter_insert(BloomFilter *bloomfilter, BloomFilterValue value)$/;"	f
+bloom_filter_intersection	src/bloom-filter.c	/^BloomFilter *bloom_filter_intersection(BloomFilter *filter1, $/;"	f
+bloom_filter_load	src/bloom-filter.c	/^void bloom_filter_load(BloomFilter *bloomfilter, unsigned char *array)$/;"	f
+bloom_filter_new	src/bloom-filter.c	/^BloomFilter *bloom_filter_new(unsigned int table_size, $/;"	f
+bloom_filter_query	src/bloom-filter.c	/^int bloom_filter_query(BloomFilter *bloomfilter, BloomFilterValue value)$/;"	f
+bloom_filter_read	src/bloom-filter.c	/^void bloom_filter_read(BloomFilter *bloomfilter, unsigned char *array)$/;"	f
+bloom_filter_union	src/bloom-filter.c	/^BloomFilter *bloom_filter_union(BloomFilter *filter1, BloomFilter *filter2)$/;"	f
+build	Makefile	/^build = i686-pc-linux-gnu$/;"	m
+build	doc/Makefile	/^build = i686-pc-linux-gnu$/;"	m
+build	src/Makefile	/^build = i686-pc-linux-gnu$/;"	m
+build	test/Makefile	/^build = i686-pc-linux-gnu$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_alias	doc/Makefile	/^build_alias = $/;"	m
+build_alias	src/Makefile	/^build_alias = $/;"	m
+build_alias	test/Makefile	/^build_alias = $/;"	m
+build_cpu	Makefile	/^build_cpu = i686$/;"	m
+build_cpu	doc/Makefile	/^build_cpu = i686$/;"	m
+build_cpu	src/Makefile	/^build_cpu = i686$/;"	m
+build_cpu	test/Makefile	/^build_cpu = i686$/;"	m
+build_os	Makefile	/^build_os = linux-gnu$/;"	m
+build_os	doc/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	src/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	test/Makefile	/^build_os = linux-gnu$/;"	m
+build_triplet	Makefile	/^build_triplet = i686-pc-linux-gnu$/;"	m
+build_triplet	doc/Makefile	/^build_triplet = i686-pc-linux-gnu$/;"	m
+build_triplet	src/Makefile	/^build_triplet = i686-pc-linux-gnu$/;"	m
+build_triplet	test/Makefile	/^build_triplet = i686-pc-linux-gnu$/;"	m
+build_vendor	Makefile	/^build_vendor = pc$/;"	m
+build_vendor	doc/Makefile	/^build_vendor = pc$/;"	m
+build_vendor	src/Makefile	/^build_vendor = pc$/;"	m
+build_vendor	test/Makefile	/^build_vendor = pc$/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+builddir	doc/Makefile	/^builddir = .$/;"	m
+builddir	src/Makefile	/^builddir = .$/;"	m
+builddir	test/Makefile	/^builddir = .$/;"	m
+bytes	test/alloc-testing.c	/^	size_t bytes;$/;"	m	struct:_BlockHeader	file:
+calgheaderfiles_HEADERS	src/Makefile	/^calgheaderfiles_HEADERS = $(CALG_HEADERFILES)$/;"	m
+calgheaderfilesdir	src/Makefile	/^calgheaderfilesdir = $(headerfilesdir)\/libcalg$/;"	m
+calloc	test/alloc-testing.h	46;"	d
+calloc	test/alloc-testing.h	47;"	d
+check_LIBRARIES	src/Makefile	/^check_LIBRARIES = libcalgtest.a$/;"	m
+check_LIBRARIES	test/Makefile	/^check_LIBRARIES = libtestframework.a$/;"	m
+check_PROGRAMS	test/Makefile	/^check_PROGRAMS = $(am__EXEEXT_1)$/;"	m
+check_list_integrity	test/test-list.c	/^void check_list_integrity(ListEntry *list)$/;"	f
+children	src/avl-tree.c	/^	AVLTreeNode *children[2];$/;"	m	struct:_AVLTreeNode	file:
+children	src/rb-tree.c	/^	RBTreeNode *children[2];$/;"	m	struct:_RBTreeNode	file:
+color	src/rb-tree.c	/^	RBTreeNodeColor color;$/;"	m	struct:_RBTreeNode	file:
+compare_func	src/avl-tree.c	/^	AVLTreeCompareFunc compare_func;$/;"	m	struct:_AVLTree	file:
+compare_func	src/binary-heap.c	/^	BinaryHeapCompareFunc compare_func;$/;"	m	struct:_BinaryHeap	file:
+compare_func	src/binomial-heap.c	/^	BinomialHeapCompareFunc compare_func;$/;"	m	struct:_BinomialHeap	file:
+compare_func	src/rb-tree.c	/^	RBTreeCompareFunc compare_func;$/;"	m	struct:_RBTree	file:
+counter	test/test-avl-tree.c	/^int counter;$/;"	v
+create_tree	test/test-avl-tree.c	/^AVLTree *create_tree(void)$/;"	f
+create_tree	test/test-rb-tree.c	/^RBTree *create_tree(void)$/;"	f
+current	src/list.h	/^	ListEntry *current;$/;"	m	struct:_ListIterator
+current	src/slist.h	/^	SListEntry *current;$/;"	m	struct:_SListIterator
+data	src/arraylist.h	/^	ArrayListValue *data;$/;"	m	struct:_ArrayList
+data	src/list.c	/^	ListValue data;$/;"	m	struct:_ListEntry	file:
+data	src/queue.c	/^	QueueValue data;$/;"	m	struct:_QueueEntry	file:
+data	src/set.c	/^	SetValue data;$/;"	m	struct:_SetEntry	file:
+data	src/slist.c	/^	SListValue data;$/;"	m	struct:_SListEntry	file:
+data	src/trie.c	/^	TrieValue data;$/;"	m	struct:_TrieNode	file:
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	doc/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	src/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	test/Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	doc/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	src/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	test/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+depcomp	src/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/autotools\/depcomp$/;"	m
+depcomp	test/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/autotools\/depcomp$/;"	m
+distcleancheck_listfiles	Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m
+distdir	Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m
+distuninstallcheck_listfiles	Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	doc/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	src/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	test/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	doc/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	src/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	test/Makefile	/^dvidir = ${docdir}$/;"	m
+entries	src/hash-table.c	/^	unsigned int entries;$/;"	m	struct:_HashTable	file:
+entries	src/set.c	/^	unsigned int entries;$/;"	m	struct:_Set	file:
+equal_func	src/hash-table.c	/^	HashTableEqualFunc equal_func;$/;"	m	struct:_HashTable	file:
+equal_func	src/set.c	/^	SetEqualFunc equal_func;$/;"	m	struct:_Set	file:
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	doc/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	src/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	test/Makefile	/^exec_prefix = ${prefix}$/;"	m
+find_subtree_height	test/test-avl-tree.c	/^int find_subtree_height(AVLTreeNode *node)$/;"	f
+find_subtree_height	test/test-rb-tree.c	/^int find_subtree_height(RBTreeNode *node)$/;"	f
+free	test/alloc-testing.h	42;"	d
+free	test/alloc-testing.h	43;"	d
+free_func	src/set.c	/^	SetFreeFunc free_func;$/;"	m	struct:_Set	file:
+free_key	test/test-hash-table.c	/^void free_key(void *key)$/;"	f
+free_value	test/test-hash-table.c	/^void free_value(void *value)$/;"	f
+free_value	test/test-set.c	/^void free_value(void *value)$/;"	f
+func_append	autotools/ltmain.sh	/^func_append ()$/;"	f
+func_append	config.status	/^func_append ()\\$/;"	f
+func_append	configure	/^func_append ()\\$/;"	f
+func_append	libtool	/^func_append ()$/;"	f
+func_append_quoted	autotools/ltmain.sh	/^func_append_quoted ()$/;"	f
+func_append_quoted	config.status	/^func_append_quoted ()\\$/;"	f
+func_append_quoted	configure	/^func_append_quoted ()\\$/;"	f
+func_append_quoted	libtool	/^func_append_quoted ()$/;"	f
+func_arith	autotools/ltmain.sh	/^func_arith ()$/;"	f
+func_arith	config.status	/^func_arith ()\\$/;"	f
+func_arith	configure	/^func_arith ()\\$/;"	f
+func_arith	libtool	/^func_arith ()$/;"	f
+func_basename	autotools/ltmain.sh	/^func_basename ()$/;"	f
+func_basename	config.status	/^func_basename ()\\$/;"	f
+func_basename	configure	/^func_basename ()\\$/;"	f
+func_basename	libtool	/^func_basename ()$/;"	f
+func_check_version_match	autotools/ltmain.sh	/^func_check_version_match ()$/;"	f
+func_check_version_match	libtool	/^func_check_version_match ()$/;"	f
+func_config	autotools/ltmain.sh	/^func_config ()$/;"	f
+func_config	libtool	/^func_config ()$/;"	f
+func_convert_core_file_wine_to_w32	autotools/ltmain.sh	/^func_convert_core_file_wine_to_w32 ()$/;"	f
+func_convert_core_file_wine_to_w32	libtool	/^func_convert_core_file_wine_to_w32 ()$/;"	f
+func_convert_core_msys_to_w32	autotools/ltmain.sh	/^func_convert_core_msys_to_w32 ()$/;"	f
+func_convert_core_msys_to_w32	libtool	/^func_convert_core_msys_to_w32 ()$/;"	f
+func_convert_core_path_wine_to_w32	autotools/ltmain.sh	/^func_convert_core_path_wine_to_w32 ()$/;"	f
+func_convert_core_path_wine_to_w32	libtool	/^func_convert_core_path_wine_to_w32 ()$/;"	f
+func_convert_file_check	autotools/ltmain.sh	/^func_convert_file_check ()$/;"	f
+func_convert_file_check	libtool	/^func_convert_file_check ()$/;"	f
+func_convert_file_cygwin_to_w32	autotools/ltmain.sh	/^func_convert_file_cygwin_to_w32 ()$/;"	f
+func_convert_file_cygwin_to_w32	libtool	/^func_convert_file_cygwin_to_w32 ()$/;"	f
+func_convert_file_msys_to_cygwin	autotools/ltmain.sh	/^func_convert_file_msys_to_cygwin ()$/;"	f
+func_convert_file_msys_to_cygwin	libtool	/^func_convert_file_msys_to_cygwin ()$/;"	f
+func_convert_file_msys_to_w32	autotools/ltmain.sh	/^func_convert_file_msys_to_w32 ()$/;"	f
+func_convert_file_msys_to_w32	libtool	/^func_convert_file_msys_to_w32 ()$/;"	f
+func_convert_file_nix_to_cygwin	autotools/ltmain.sh	/^func_convert_file_nix_to_cygwin ()$/;"	f
+func_convert_file_nix_to_cygwin	libtool	/^func_convert_file_nix_to_cygwin ()$/;"	f
+func_convert_file_nix_to_w32	autotools/ltmain.sh	/^func_convert_file_nix_to_w32 ()$/;"	f
+func_convert_file_nix_to_w32	libtool	/^func_convert_file_nix_to_w32 ()$/;"	f
+func_convert_file_noop	autotools/ltmain.sh	/^func_convert_file_noop ()$/;"	f
+func_convert_file_noop	libtool	/^func_convert_file_noop ()$/;"	f
+func_convert_path_check	autotools/ltmain.sh	/^func_convert_path_check ()$/;"	f
+func_convert_path_check	libtool	/^func_convert_path_check ()$/;"	f
+func_convert_path_cygwin_to_w32	autotools/ltmain.sh	/^func_convert_path_cygwin_to_w32 ()$/;"	f
+func_convert_path_cygwin_to_w32	libtool	/^func_convert_path_cygwin_to_w32 ()$/;"	f
+func_convert_path_front_back_pathsep	autotools/ltmain.sh	/^func_convert_path_front_back_pathsep ()$/;"	f
+func_convert_path_front_back_pathsep	libtool	/^func_convert_path_front_back_pathsep ()$/;"	f
+func_convert_path_msys_to_cygwin	autotools/ltmain.sh	/^func_convert_path_msys_to_cygwin ()$/;"	f
+func_convert_path_msys_to_cygwin	libtool	/^func_convert_path_msys_to_cygwin ()$/;"	f
+func_convert_path_msys_to_w32	autotools/ltmain.sh	/^func_convert_path_msys_to_w32 ()$/;"	f
+func_convert_path_msys_to_w32	libtool	/^func_convert_path_msys_to_w32 ()$/;"	f
+func_convert_path_nix_to_cygwin	autotools/ltmain.sh	/^func_convert_path_nix_to_cygwin ()$/;"	f
+func_convert_path_nix_to_cygwin	libtool	/^func_convert_path_nix_to_cygwin ()$/;"	f
+func_convert_path_nix_to_w32	autotools/ltmain.sh	/^func_convert_path_nix_to_w32 ()$/;"	f
+func_convert_path_nix_to_w32	libtool	/^func_convert_path_nix_to_w32 ()$/;"	f
+func_convert_path_noop	autotools/ltmain.sh	/^func_convert_path_noop ()$/;"	f
+func_convert_path_noop	libtool	/^func_convert_path_noop ()$/;"	f
+func_cygming_dll_for_implib	autotools/ltmain.sh	/^func_cygming_dll_for_implib ()$/;"	f
+func_cygming_dll_for_implib	libtool	/^func_cygming_dll_for_implib ()$/;"	f
+func_cygming_dll_for_implib_fallback	autotools/ltmain.sh	/^func_cygming_dll_for_implib_fallback ()$/;"	f
+func_cygming_dll_for_implib_fallback	libtool	/^func_cygming_dll_for_implib_fallback ()$/;"	f
+func_cygming_dll_for_implib_fallback_core	autotools/ltmain.sh	/^func_cygming_dll_for_implib_fallback_core ()$/;"	f
+func_cygming_dll_for_implib_fallback_core	libtool	/^func_cygming_dll_for_implib_fallback_core ()$/;"	f
+func_cygming_gnu_implib_p	autotools/ltmain.sh	/^func_cygming_gnu_implib_p ()$/;"	f
+func_cygming_gnu_implib_p	libtool	/^func_cygming_gnu_implib_p ()$/;"	f
+func_cygming_ms_implib_p	autotools/ltmain.sh	/^func_cygming_ms_implib_p ()$/;"	f
+func_cygming_ms_implib_p	libtool	/^func_cygming_ms_implib_p ()$/;"	f
+func_cygpath	autotools/ltmain.sh	/^func_cygpath ()$/;"	f
+func_cygpath	libtool	/^func_cygpath ()$/;"	f
+func_dirname	autotools/ltmain.sh	/^func_dirname ()$/;"	f
+func_dirname	config.status	/^func_dirname ()\\$/;"	f
+func_dirname	configure	/^func_dirname ()\\$/;"	f
+func_dirname	libtool	/^func_dirname ()$/;"	f
+func_dirname_and_basename	autotools/ltmain.sh	/^func_dirname_and_basename ()$/;"	f
+func_dirname_and_basename	config.status	/^func_dirname_and_basename ()\\$/;"	f
+func_dirname_and_basename	configure	/^func_dirname_and_basename ()\\$/;"	f
+func_dirname_and_basename	libtool	/^func_dirname_and_basename ()$/;"	f
+func_echo	autotools/ltmain.sh	/^func_echo ()$/;"	f
+func_echo	libtool	/^func_echo ()$/;"	f
+func_echo_all	autotools/ltmain.sh	/^func_echo_all ()$/;"	f
+func_echo_all	configure	/^func_echo_all ()$/;"	f
+func_echo_all	libtool	/^func_echo_all ()$/;"	f
+func_emit_cwrapperexe_src	autotools/ltmain.sh	/^func_emit_cwrapperexe_src ()$/;"	f
+func_emit_cwrapperexe_src	libtool	/^func_emit_cwrapperexe_src ()$/;"	f
+func_emit_wrapper	autotools/ltmain.sh	/^func_emit_wrapper ()$/;"	f
+func_emit_wrapper	libtool	/^func_emit_wrapper ()$/;"	f
+func_enable_tag	autotools/ltmain.sh	/^func_enable_tag ()$/;"	f
+func_enable_tag	libtool	/^func_enable_tag ()$/;"	f
+func_error	autotools/ltmain.sh	/^func_error ()$/;"	f
+func_error	libtool	/^func_error ()$/;"	f
+func_exec_program	autotools/ltmain.sh	/^func_exec_program ()$/;"	f
+func_exec_program	libtool	/^func_exec_program ()$/;"	f
+func_exec_program_core	autotools/ltmain.sh	/^func_exec_program_core ()$/;"	f
+func_exec_program_core	libtool	/^func_exec_program_core ()$/;"	f
+func_execute_cmds	autotools/ltmain.sh	/^func_execute_cmds ()$/;"	f
+func_execute_cmds	libtool	/^func_execute_cmds ()$/;"	f
+func_extract_an_archive	autotools/ltmain.sh	/^func_extract_an_archive ()$/;"	f
+func_extract_an_archive	libtool	/^func_extract_an_archive ()$/;"	f
+func_extract_archives	autotools/ltmain.sh	/^func_extract_archives ()$/;"	f
+func_extract_archives	libtool	/^func_extract_archives ()$/;"	f
+func_fallback_echo	autotools/ltmain.sh	/^func_fallback_echo ()$/;"	f
+func_fallback_echo	config.status	/^func_fallback_echo ()$/;"	f
+func_fallback_echo	configure	/^  func_fallback_echo ()$/;"	f
+func_fallback_echo	configure	/^func_fallback_echo ()$/;"	f
+func_fallback_echo	libtool	/^func_fallback_echo ()$/;"	f
+func_fatal_configuration	autotools/ltmain.sh	/^func_fatal_configuration ()$/;"	f
+func_fatal_configuration	libtool	/^func_fatal_configuration ()$/;"	f
+func_fatal_error	autotools/ltmain.sh	/^func_fatal_error ()$/;"	f
+func_fatal_error	libtool	/^func_fatal_error ()$/;"	f
+func_fatal_help	autotools/ltmain.sh	/^func_fatal_help ()$/;"	f
+func_fatal_help	libtool	/^func_fatal_help ()$/;"	f
+func_features	autotools/ltmain.sh	/^func_features ()$/;"	f
+func_features	libtool	/^func_features ()$/;"	f
+func_generate_dlsyms	autotools/ltmain.sh	/^func_generate_dlsyms ()$/;"	f
+func_generate_dlsyms	libtool	/^func_generate_dlsyms ()$/;"	f
+func_grep	autotools/ltmain.sh	/^func_grep ()$/;"	f
+func_grep	libtool	/^func_grep ()$/;"	f
+func_help	autotools/ltmain.sh	/^func_help ()$/;"	f
+func_help	libtool	/^func_help ()$/;"	f
+func_infer_tag	autotools/ltmain.sh	/^func_infer_tag ()$/;"	f
+func_infer_tag	libtool	/^func_infer_tag ()$/;"	f
+func_init_to_host_path_cmd	autotools/ltmain.sh	/^func_init_to_host_path_cmd ()$/;"	f
+func_init_to_host_path_cmd	libtool	/^func_init_to_host_path_cmd ()$/;"	f
+func_lalib_p	autotools/ltmain.sh	/^func_lalib_p ()$/;"	f
+func_lalib_p	libtool	/^func_lalib_p ()$/;"	f
+func_lalib_unsafe_p	autotools/ltmain.sh	/^func_lalib_unsafe_p ()$/;"	f
+func_lalib_unsafe_p	libtool	/^func_lalib_unsafe_p ()$/;"	f
+func_len	autotools/ltmain.sh	/^func_len ()$/;"	f
+func_len	config.status	/^func_len ()\\$/;"	f
+func_len	configure	/^func_len ()\\$/;"	f
+func_len	libtool	/^func_len ()$/;"	f
+func_lo2o	autotools/ltmain.sh	/^func_lo2o ()$/;"	f
+func_lo2o	config.status	/^func_lo2o ()\\$/;"	f
+func_lo2o	configure	/^func_lo2o ()\\$/;"	f
+func_lo2o	libtool	/^func_lo2o ()$/;"	f
+func_lt_dump_args	autotools/ltmain.sh	/^func_lt_dump_args ()$/;"	f
+func_lt_dump_args	libtool	/^func_lt_dump_args ()$/;"	f
+func_ltwrapper_executable_p	autotools/ltmain.sh	/^func_ltwrapper_executable_p ()$/;"	f
+func_ltwrapper_executable_p	libtool	/^func_ltwrapper_executable_p ()$/;"	f
+func_ltwrapper_p	autotools/ltmain.sh	/^func_ltwrapper_p ()$/;"	f
+func_ltwrapper_p	libtool	/^func_ltwrapper_p ()$/;"	f
+func_ltwrapper_script_p	autotools/ltmain.sh	/^func_ltwrapper_script_p ()$/;"	f
+func_ltwrapper_script_p	libtool	/^func_ltwrapper_script_p ()$/;"	f
+func_ltwrapper_scriptname	autotools/ltmain.sh	/^func_ltwrapper_scriptname ()$/;"	f
+func_ltwrapper_scriptname	libtool	/^func_ltwrapper_scriptname ()$/;"	f
+func_missing_arg	autotools/ltmain.sh	/^func_missing_arg ()$/;"	f
+func_missing_arg	libtool	/^func_missing_arg ()$/;"	f
+func_mkdir_p	autotools/ltmain.sh	/^func_mkdir_p ()$/;"	f
+func_mkdir_p	libtool	/^func_mkdir_p ()$/;"	f
+func_mktempdir	autotools/ltmain.sh	/^func_mktempdir ()$/;"	f
+func_mktempdir	libtool	/^func_mktempdir ()$/;"	f
+func_mode_compile	autotools/ltmain.sh	/^func_mode_compile ()$/;"	f
+func_mode_compile	libtool	/^func_mode_compile ()$/;"	f
+func_mode_execute	autotools/ltmain.sh	/^func_mode_execute ()$/;"	f
+func_mode_execute	libtool	/^func_mode_execute ()$/;"	f
+func_mode_finish	autotools/ltmain.sh	/^func_mode_finish ()$/;"	f
+func_mode_finish	libtool	/^func_mode_finish ()$/;"	f
+func_mode_help	autotools/ltmain.sh	/^func_mode_help ()$/;"	f
+func_mode_help	libtool	/^func_mode_help ()$/;"	f
+func_mode_install	autotools/ltmain.sh	/^func_mode_install ()$/;"	f
+func_mode_install	libtool	/^func_mode_install ()$/;"	f
+func_mode_link	autotools/ltmain.sh	/^func_mode_link ()$/;"	f
+func_mode_link	libtool	/^func_mode_link ()$/;"	f
+func_mode_uninstall	autotools/ltmain.sh	/^func_mode_uninstall ()$/;"	f
+func_mode_uninstall	libtool	/^func_mode_uninstall ()$/;"	f
+func_normal_abspath	autotools/ltmain.sh	/^func_normal_abspath ()$/;"	f
+func_normal_abspath	libtool	/^func_normal_abspath ()$/;"	f
+func_parse_lt_options	autotools/ltmain.sh	/^func_parse_lt_options ()$/;"	f
+func_parse_lt_options	libtool	/^func_parse_lt_options ()$/;"	f
+func_quote_for_eval	autotools/ltmain.sh	/^func_quote_for_eval ()$/;"	f
+func_quote_for_eval	libtool	/^func_quote_for_eval ()$/;"	f
+func_quote_for_expand	autotools/ltmain.sh	/^func_quote_for_expand ()$/;"	f
+func_quote_for_expand	libtool	/^func_quote_for_expand ()$/;"	f
+func_relative_path	autotools/ltmain.sh	/^func_relative_path ()$/;"	f
+func_relative_path	libtool	/^func_relative_path ()$/;"	f
+func_replace_sysroot	autotools/ltmain.sh	/^func_replace_sysroot ()$/;"	f
+func_replace_sysroot	libtool	/^func_replace_sysroot ()$/;"	f
+func_resolve_sysroot	autotools/ltmain.sh	/^func_resolve_sysroot ()$/;"	f
+func_resolve_sysroot	libtool	/^func_resolve_sysroot ()$/;"	f
+func_show_eval	autotools/ltmain.sh	/^func_show_eval ()$/;"	f
+func_show_eval	libtool	/^func_show_eval ()$/;"	f
+func_show_eval_locale	autotools/ltmain.sh	/^func_show_eval_locale ()$/;"	f
+func_show_eval_locale	libtool	/^func_show_eval_locale ()$/;"	f
+func_source	autotools/ltmain.sh	/^func_source ()$/;"	f
+func_source	libtool	/^func_source ()$/;"	f
+func_split_long_opt	autotools/ltmain.sh	/^func_split_long_opt ()$/;"	f
+func_split_long_opt	config.status	/^func_split_long_opt ()\\$/;"	f
+func_split_long_opt	configure	/^func_split_long_opt ()\\$/;"	f
+func_split_long_opt	libtool	/^func_split_long_opt ()$/;"	f
+func_split_short_opt	autotools/ltmain.sh	/^func_split_short_opt ()$/;"	f
+func_split_short_opt	config.status	/^func_split_short_opt ()\\$/;"	f
+func_split_short_opt	configure	/^func_split_short_opt ()\\$/;"	f
+func_split_short_opt	libtool	/^func_split_short_opt ()$/;"	f
+func_stripname	autotools/ltmain.sh	/^func_stripname ()$/;"	f
+func_stripname	config.status	/^func_stripname ()\\$/;"	f
+func_stripname	configure	/^func_stripname ()\\$/;"	f
+func_stripname	libtool	/^func_stripname ()$/;"	f
+func_stripname_cnf	configure	/^func_stripname_cnf ()$/;"	f
+func_to_host_file	autotools/ltmain.sh	/^func_to_host_file ()$/;"	f
+func_to_host_file	libtool	/^func_to_host_file ()$/;"	f
+func_to_host_path	autotools/ltmain.sh	/^func_to_host_path ()$/;"	f
+func_to_host_path	libtool	/^func_to_host_path ()$/;"	f
+func_to_tool_file	autotools/ltmain.sh	/^func_to_tool_file ()$/;"	f
+func_to_tool_file	libtool	/^func_to_tool_file ()$/;"	f
+func_tr_sh	autotools/ltmain.sh	/^func_tr_sh ()$/;"	f
+func_tr_sh	libtool	/^func_tr_sh ()$/;"	f
+func_usage	autotools/ltmain.sh	/^func_usage ()$/;"	f
+func_usage	libtool	/^func_usage ()$/;"	f
+func_verbose	autotools/ltmain.sh	/^func_verbose ()$/;"	f
+func_verbose	libtool	/^func_verbose ()$/;"	f
+func_version	autotools/ltmain.sh	/^func_version ()$/;"	f
+func_version	libtool	/^func_version ()$/;"	f
+func_warning	autotools/ltmain.sh	/^func_warning ()$/;"	f
+func_warning	libtool	/^func_warning ()$/;"	f
+func_win32_import_lib_p	autotools/ltmain.sh	/^func_win32_import_lib_p ()$/;"	f
+func_win32_import_lib_p	libtool	/^func_win32_import_lib_p ()$/;"	f
+func_win32_libid	autotools/ltmain.sh	/^func_win32_libid ()$/;"	f
+func_win32_libid	libtool	/^func_win32_libid ()$/;"	f
+func_write_libtool_object	autotools/ltmain.sh	/^func_write_libtool_object ()$/;"	f
+func_write_libtool_object	libtool	/^func_write_libtool_object ()$/;"	f
+func_xform	autotools/ltmain.sh	/^func_xform ()$/;"	f
+func_xform	config.status	/^func_xform ()\\$/;"	f
+func_xform	configure	/^func_xform ()\\$/;"	f
+func_xform	libtool	/^func_xform ()$/;"	f
+generate_arraylist	test/test-arraylist.c	/^ArrayList *generate_arraylist(void)$/;"	f
+generate_binary_trie	test/test-trie.c	/^Trie *generate_binary_trie(void)$/;"	f
+generate_hash_table	test/test-hash-table.c	/^HashTable *generate_hash_table(void)$/;"	f
+generate_heap	test/test-binomial-heap.c	/^static BinomialHeap *generate_heap(void)$/;"	f	file:
+generate_list	test/test-list.c	/^ListEntry *generate_list(void)$/;"	f
+generate_list	test/test-slist.c	/^SListEntry *generate_list(void)$/;"	f
+generate_queue	test/test-queue.c	/^Queue *generate_queue(void)$/;"	f
+generate_set	test/test-set.c	/^Set *generate_set(void)$/;"	f
+generate_trie	test/test-trie.c	/^Trie *generate_trie(void)$/;"	f
+hash_func	src/bloom-filter.c	/^	BloomFilterHashFunc hash_func;$/;"	m	struct:_BloomFilter	file:
+hash_func	src/hash-table.c	/^	HashTableHashFunc hash_func;$/;"	m	struct:_HashTable	file:
+hash_func	src/set.c	/^	SetHashFunc hash_func;$/;"	m	struct:_Set	file:
+hash_table	src/hash-table.h	/^	HashTable *hash_table;$/;"	m	struct:_HashTableIterator
+hash_table_allocate_table	src/hash-table.c	/^static int hash_table_allocate_table(HashTable *hash_table)$/;"	f	file:
+hash_table_enlarge	src/hash-table.c	/^static int hash_table_enlarge(HashTable *hash_table)$/;"	f	file:
+hash_table_free	src/hash-table.c	/^void hash_table_free(HashTable *hash_table)$/;"	f
+hash_table_free_entry	src/hash-table.c	/^static void hash_table_free_entry(HashTable *hash_table, HashTableEntry *entry)$/;"	f	file:
+hash_table_insert	src/hash-table.c	/^int hash_table_insert(HashTable *hash_table, HashTableKey key, HashTableValue value) $/;"	f
+hash_table_iter_has_more	src/hash-table.c	/^int hash_table_iter_has_more(HashTableIterator *iterator)$/;"	f
+hash_table_iter_next	src/hash-table.c	/^HashTableValue hash_table_iter_next(HashTableIterator *iterator)$/;"	f
+hash_table_iterate	src/hash-table.c	/^void hash_table_iterate(HashTable *hash_table, HashTableIterator *iterator)$/;"	f
+hash_table_lookup	src/hash-table.c	/^HashTableValue hash_table_lookup(HashTable *hash_table, HashTableKey key)$/;"	f
+hash_table_new	src/hash-table.c	/^HashTable *hash_table_new(HashTableHashFunc hash_func, $/;"	f
+hash_table_num_entries	src/hash-table.c	/^unsigned int hash_table_num_entries(HashTable *hash_table)$/;"	f
+hash_table_num_primes	src/hash-table.c	/^static const unsigned int hash_table_num_primes $/;"	v	file:
+hash_table_primes	src/hash-table.c	/^static const unsigned int hash_table_primes[] = {$/;"	v	file:
+hash_table_register_free_functions	src/hash-table.c	/^void hash_table_register_free_functions(HashTable *hash_table,$/;"	f
+hash_table_remove	src/hash-table.c	/^int hash_table_remove(HashTable *hash_table, HashTableKey key)$/;"	f
+head	src/queue.c	/^	QueueEntry *head;$/;"	m	struct:_Queue	file:
+headerfiles_HEADERS	src/Makefile	/^headerfiles_HEADERS = $(MAIN_HEADERFILES)$/;"	m
+headerfilesdir	src/Makefile	/^headerfilesdir = $(includedir)\/libcalg-1.0$/;"	m
+heap_type	src/binary-heap.c	/^	BinaryHeapType heap_type;$/;"	m	struct:_BinaryHeap	file:
+heap_type	src/binomial-heap.c	/^	BinomialHeapType heap_type;$/;"	m	struct:_BinomialHeap	file:
+height	src/avl-tree.c	/^	int height;$/;"	m	struct:_AVLTreeNode	file:
+host	Makefile	/^host = i686-pc-linux-gnu$/;"	m
+host	doc/Makefile	/^host = i686-pc-linux-gnu$/;"	m
+host	src/Makefile	/^host = i686-pc-linux-gnu$/;"	m
+host	test/Makefile	/^host = i686-pc-linux-gnu$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+host_alias	doc/Makefile	/^host_alias = $/;"	m
+host_alias	src/Makefile	/^host_alias = $/;"	m
+host_alias	test/Makefile	/^host_alias = $/;"	m
+host_cpu	Makefile	/^host_cpu = i686$/;"	m
+host_cpu	doc/Makefile	/^host_cpu = i686$/;"	m
+host_cpu	src/Makefile	/^host_cpu = i686$/;"	m
+host_cpu	test/Makefile	/^host_cpu = i686$/;"	m
+host_os	Makefile	/^host_os = linux-gnu$/;"	m
+host_os	doc/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	src/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	test/Makefile	/^host_os = linux-gnu$/;"	m
+host_triplet	Makefile	/^host_triplet = i686-pc-linux-gnu$/;"	m
+host_triplet	doc/Makefile	/^host_triplet = i686-pc-linux-gnu$/;"	m
+host_triplet	src/Makefile	/^host_triplet = i686-pc-linux-gnu$/;"	m
+host_triplet	test/Makefile	/^host_triplet = i686-pc-linux-gnu$/;"	m
+host_vendor	Makefile	/^host_vendor = pc$/;"	m
+host_vendor	doc/Makefile	/^host_vendor = pc$/;"	m
+host_vendor	src/Makefile	/^host_vendor = pc$/;"	m
+host_vendor	test/Makefile	/^host_vendor = pc$/;"	m
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	doc/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	src/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	test/Makefile	/^htmldir = ${docdir}$/;"	m
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	doc/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	src/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	test/Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	doc/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	src/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	test/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/install-sh$/;"	m
+install_sh	doc/Makefile	/^install_sh = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/install-sh$/;"	m
+install_sh	src/Makefile	/^install_sh = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/install-sh$/;"	m
+install_sh	test/Makefile	/^install_sh = ${SHELL} \/home\/cocui\/c-algorithms-master\/autotools\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	doc/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	src/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	test/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	doc/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	src/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	test/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	doc/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	test/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+int_compare	src/compare-int.c	/^int int_compare(void *vlocation1, void *vlocation2)$/;"	f
+int_equal	src/compare-int.c	/^int int_equal(void *vlocation1, void *vlocation2)$/;"	f
+int_hash	src/hash-int.c	/^unsigned int int_hash(void *vlocation)$/;"	f
+key	src/avl-tree.c	/^	AVLTreeKey key;$/;"	m	struct:_AVLTreeNode	file:
+key	src/hash-table.c	/^	HashTableKey key;$/;"	m	struct:_HashTableEntry	file:
+key	src/rb-tree.c	/^	RBTreeKey key;$/;"	m	struct:_RBTreeNode	file:
+key_free_func	src/hash-table.c	/^	HashTableKeyFreeFunc key_free_func;$/;"	m	struct:_HashTable	file:
+length	src/arraylist.h	/^	unsigned int length;$/;"	m	struct:_ArrayList
+lib_LTLIBRARIES	src/Makefile	/^lib_LTLIBRARIES = libcalg.la$/;"	m
+libcalg_la_CFLAGS	src/Makefile	/^libcalg_la_CFLAGS = $(MAIN_CFLAGS)$/;"	m
+libcalg_la_LIBADD	src/Makefile	/^libcalg_la_LIBADD =$/;"	m
+libcalg_la_LINK	src/Makefile	/^libcalg_la_LINK = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+libcalg_la_OBJECTS	src/Makefile	/^libcalg_la_OBJECTS = $(am_libcalg_la_OBJECTS)$/;"	m
+libcalg_la_SOURCES	src/Makefile	/^libcalg_la_SOURCES = $(SRC) $(MAIN_HEADERFILES) $(CALG_HEADERFILES)$/;"	m
+libcalgtest_a_AR	src/Makefile	/^libcalgtest_a_AR = $(AR) $(ARFLAGS)$/;"	m
+libcalgtest_a_CFLAGS	src/Makefile	/^libcalgtest_a_CFLAGS = $(TEST_CFLAGS) -DALLOC_TESTING -I..\/test -g$/;"	m
+libcalgtest_a_LIBADD	src/Makefile	/^libcalgtest_a_LIBADD =$/;"	m
+libcalgtest_a_OBJECTS	src/Makefile	/^libcalgtest_a_OBJECTS = $(am_libcalgtest_a_OBJECTS)$/;"	m
+libcalgtest_a_SOURCES	src/Makefile	/^libcalgtest_a_SOURCES = $(SRC) $(MAIN_HEADERFILES)$/;"	m
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	doc/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	src/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	test/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	doc/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	src/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	test/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libtestframework_a_AR	test/Makefile	/^libtestframework_a_AR = $(AR) $(ARFLAGS)$/;"	m
+libtestframework_a_LIBADD	test/Makefile	/^libtestframework_a_LIBADD =$/;"	m
+libtestframework_a_OBJECTS	test/Makefile	/^libtestframework_a_OBJECTS = $(am_libtestframework_a_OBJECTS)$/;"	m
+libtestframework_a_SOURCES	test/Makefile	/^libtestframework_a_SOURCES = \\$/;"	m
+list_append	src/list.c	/^ListEntry *list_append(ListEntry **list, ListValue data)$/;"	f
+list_data	src/list.c	/^ListValue list_data(ListEntry *listentry)$/;"	f
+list_find_data	src/list.c	/^ListEntry *list_find_data(ListEntry *list,$/;"	f
+list_free	src/list.c	/^void list_free(ListEntry *list)$/;"	f
+list_iter_has_more	src/list.c	/^int list_iter_has_more(ListIterator *iter)$/;"	f
+list_iter_next	src/list.c	/^ListValue list_iter_next(ListIterator *iter)$/;"	f
+list_iter_remove	src/list.c	/^void list_iter_remove(ListIterator *iter)$/;"	f
+list_iterate	src/list.c	/^void list_iterate(ListEntry **list, ListIterator *iter)$/;"	f
+list_length	src/list.c	/^unsigned int list_length(ListEntry *list)$/;"	f
+list_next	src/list.c	/^ListEntry *list_next(ListEntry *listentry)$/;"	f
+list_nth_data	src/list.c	/^ListValue list_nth_data(ListEntry *list, unsigned int n)$/;"	f
+list_nth_entry	src/list.c	/^ListEntry *list_nth_entry(ListEntry *list, unsigned int n)$/;"	f
+list_prepend	src/list.c	/^ListEntry *list_prepend(ListEntry **list, ListValue data)$/;"	f
+list_prev	src/list.c	/^ListEntry *list_prev(ListEntry *listentry)$/;"	f
+list_remove_data	src/list.c	/^unsigned int list_remove_data(ListEntry **list, ListEqualFunc callback,$/;"	f
+list_remove_entry	src/list.c	/^int list_remove_entry(ListEntry **list, ListEntry *entry)$/;"	f
+list_sort	src/list.c	/^void list_sort(ListEntry **list, ListCompareFunc compare_func)$/;"	f
+list_sort_internal	src/list.c	/^static ListEntry *list_sort_internal(ListEntry **list, $/;"	f	file:
+list_to_array	src/list.c	/^ListValue *list_to_array(ListEntry *list)$/;"	f
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	doc/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	src/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	test/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	doc/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	src/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	test/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+magic_number	test/alloc-testing.c	/^	unsigned int magic_number;$/;"	m	struct:_BlockHeader	file:
+main	autotools/config.guess	/^		main()$/;"	f
+main	autotools/config.guess	/^	main ()$/;"	f
+main	autotools/config.guess	/^main ()$/;"	f
+main	test/test-alloc-testing.c	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-arraylist.c	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-avl-tree.c	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-binary-heap.c	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-binomial-heap.c	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-bloom-filter.c	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-compare-functions.c	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-cpp.cpp	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-hash-functions.c	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-hash-table.c	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-list.c	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-queue.c	/^int main(int argc, char *argv[]) $/;"	f
+main	test/test-rb-tree.c	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-set.c	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-slist.c	/^int main(int argc, char *argv[])$/;"	f
+main	test/test-trie.c	/^int main(int argc, char *argv[])$/;"	f
+malloc	test/alloc-testing.h	40;"	d
+malloc	test/alloc-testing.h	41;"	d
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	doc/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	src/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	test/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mkdir_p	Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkdir_p	doc/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkdir_p	src/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkdir_p	test/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	doc/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	src/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	test/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+new_key	test/test-hash-table.c	/^int *new_key(int value)$/;"	f
+new_value	test/test-hash-table.c	/^int *new_value(int value)$/;"	f
+new_value	test/test-set.c	/^int *new_value(int value)$/;"	f
+next	src/hash-table.c	/^	HashTableEntry *next;$/;"	m	struct:_HashTableEntry	file:
+next	src/list.c	/^	ListEntry *next;$/;"	m	struct:_ListEntry	file:
+next	src/queue.c	/^	QueueEntry *next;$/;"	m	struct:_QueueEntry	file:
+next	src/set.c	/^	SetEntry *next;$/;"	m	struct:_SetEntry	file:
+next	src/slist.c	/^	SListEntry *next;$/;"	m	struct:_SListEntry	file:
+next	src/trie.c	/^	TrieNode *next[256];$/;"	m	struct:_TrieNode	file:
+next_chain	src/hash-table.h	/^	unsigned int next_chain;$/;"	m	struct:_HashTableIterator
+next_chain	src/set.h	/^	unsigned int next_chain;$/;"	m	struct:_SetIterator
+next_entry	src/hash-table.h	/^	HashTableEntry *next_entry;$/;"	m	struct:_HashTableIterator
+next_entry	src/set.h	/^	SetEntry *next_entry;$/;"	m	struct:_SetIterator
+num_functions	src/bloom-filter.c	/^	unsigned int num_functions;$/;"	m	struct:_BloomFilter	file:
+num_nodes	src/avl-tree.c	/^	unsigned int num_nodes;$/;"	m	struct:_AVLTree	file:
+num_nodes	src/rb-tree.c	/^	int num_nodes;$/;"	m	struct:_RBTree	file:
+num_values	src/binary-heap.c	/^	unsigned int num_values;$/;"	m	struct:_BinaryHeap	file:
+num_values	src/binomial-heap.c	/^	unsigned int num_values;$/;"	m	struct:_BinomialHeap	file:
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	doc/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	src/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	test/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+order	src/binomial-heap.c	/^	unsigned short order;$/;"	m	struct:_BinomialTree	file:
+parent	src/avl-tree.c	/^	AVLTreeNode *parent;$/;"	m	struct:_AVLTreeNode	file:
+parent	src/rb-tree.c	/^	RBTreeNode *parent;$/;"	m	struct:_RBTreeNode	file:
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	doc/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	src/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	test/Makefile	/^pdfdir = ${docdir}$/;"	m
+pkgconfig_DATA	Makefile	/^pkgconfig_DATA = libcalg-1.0.pc$/;"	m
+pkgconfigdir	Makefile	/^pkgconfigdir = $(libdir)\/pkgconfig$/;"	m
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/c-algorithms$/;"	m
+pkgdatadir	doc/Makefile	/^pkgdatadir = $(datadir)\/c-algorithms$/;"	m
+pkgdatadir	src/Makefile	/^pkgdatadir = $(datadir)\/c-algorithms$/;"	m
+pkgdatadir	test/Makefile	/^pkgdatadir = $(datadir)\/c-algorithms$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/c-algorithms$/;"	m
+pkgincludedir	doc/Makefile	/^pkgincludedir = $(includedir)\/c-algorithms$/;"	m
+pkgincludedir	src/Makefile	/^pkgincludedir = $(includedir)\/c-algorithms$/;"	m
+pkgincludedir	test/Makefile	/^pkgincludedir = $(includedir)\/c-algorithms$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/c-algorithms$/;"	m
+pkglibdir	doc/Makefile	/^pkglibdir = $(libdir)\/c-algorithms$/;"	m
+pkglibdir	src/Makefile	/^pkglibdir = $(libdir)\/c-algorithms$/;"	m
+pkglibdir	test/Makefile	/^pkglibdir = $(libdir)\/c-algorithms$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/c-algorithms$/;"	m
+pkglibexecdir	doc/Makefile	/^pkglibexecdir = $(libexecdir)\/c-algorithms$/;"	m
+pkglibexecdir	src/Makefile	/^pkglibexecdir = $(libexecdir)\/c-algorithms$/;"	m
+pkglibexecdir	test/Makefile	/^pkglibexecdir = $(libexecdir)\/c-algorithms$/;"	m
+pointer_compare	src/compare-pointer.c	/^int pointer_compare(void *location1, void *location2)$/;"	f
+pointer_equal	src/compare-pointer.c	/^int pointer_equal(void *location1, void *location2)$/;"	f
+pointer_hash	src/hash-pointer.c	/^unsigned int pointer_hash(void *location)$/;"	f
+prefix	Makefile	/^prefix = \/home\/cocui\/bin$/;"	m
+prefix	doc/Makefile	/^prefix = \/home\/cocui\/bin$/;"	m
+prefix	src/Makefile	/^prefix = \/home\/cocui\/bin$/;"	m
+prefix	test/Makefile	/^prefix = \/home\/cocui\/bin$/;"	m
+prev	src/list.c	/^	ListEntry *prev;$/;"	m	struct:_ListEntry	file:
+prev	src/queue.c	/^	QueueEntry *prev;$/;"	m	struct:_QueueEntry	file:
+prev_next	src/list.h	/^	ListEntry **prev_next;$/;"	m	struct:_ListIterator
+prev_next	src/slist.h	/^	SListEntry **prev_next;$/;"	m	struct:_SListIterator
+prime_index	src/hash-table.c	/^	unsigned int prime_index;$/;"	m	struct:_HashTable	file:
+prime_index	src/set.c	/^	unsigned int prime_index;$/;"	m	struct:_Set	file:
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	doc/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	src/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	test/Makefile	/^program_transform_name = s,x,x,$/;"	m
+prototypes	configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+psdir	doc/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	src/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	test/Makefile	/^psdir = ${docdir}$/;"	m
+queue_free	src/queue.c	/^void queue_free(Queue *queue)$/;"	f
+queue_is_empty	src/queue.c	/^int queue_is_empty(Queue *queue)$/;"	f
+queue_new	src/queue.c	/^Queue *queue_new(void)$/;"	f
+queue_peek_head	src/queue.c	/^QueueValue queue_peek_head(Queue *queue)$/;"	f
+queue_peek_tail	src/queue.c	/^QueueValue queue_peek_tail(Queue *queue)$/;"	f
+queue_pop_head	src/queue.c	/^QueueValue queue_pop_head(Queue *queue)$/;"	f
+queue_pop_tail	src/queue.c	/^QueueValue queue_pop_tail(Queue *queue)$/;"	f
+queue_push_head	src/queue.c	/^int queue_push_head(Queue *queue, QueueValue data)$/;"	f
+queue_push_tail	src/queue.c	/^int queue_push_tail(Queue *queue, QueueValue data)$/;"	f
+rb_tree_free	src/rb-tree.c	/^void rb_tree_free(RBTree *tree)$/;"	f
+rb_tree_free_subtree	src/rb-tree.c	/^static void rb_tree_free_subtree(RBTreeNode *node)$/;"	f	file:
+rb_tree_insert	src/rb-tree.c	/^RBTreeNode *rb_tree_insert(RBTree *tree, RBTreeKey key, RBTreeValue value)$/;"	f
+rb_tree_insert_case1	src/rb-tree.c	/^static void rb_tree_insert_case1(RBTree *tree, RBTreeNode *node)$/;"	f	file:
+rb_tree_insert_case2	src/rb-tree.c	/^static void rb_tree_insert_case2(RBTree *tree, RBTreeNode *node)$/;"	f	file:
+rb_tree_insert_case3	src/rb-tree.c	/^static void rb_tree_insert_case3(RBTree *tree, RBTreeNode *node)$/;"	f	file:
+rb_tree_insert_case4	src/rb-tree.c	/^void rb_tree_insert_case4(RBTree *tree, RBTreeNode *node)$/;"	f
+rb_tree_insert_case5	src/rb-tree.c	/^void rb_tree_insert_case5(RBTree *tree, RBTreeNode *node)$/;"	f
+rb_tree_lookup	src/rb-tree.c	/^RBTreeValue rb_tree_lookup(RBTree *tree, RBTreeKey key)$/;"	f
+rb_tree_lookup_node	src/rb-tree.c	/^RBTreeNode *rb_tree_lookup_node(RBTree *tree, RBTreeKey key)$/;"	f
+rb_tree_new	src/rb-tree.c	/^RBTree *rb_tree_new(RBTreeCompareFunc compare_func)$/;"	f
+rb_tree_node_child	src/rb-tree.c	/^RBTreeNode *rb_tree_node_child(RBTreeNode *node, RBTreeNodeSide side)$/;"	f
+rb_tree_node_key	src/rb-tree.c	/^RBTreeKey rb_tree_node_key(RBTreeNode *node)$/;"	f
+rb_tree_node_parent	src/rb-tree.c	/^RBTreeNode *rb_tree_node_parent(RBTreeNode *node)$/;"	f
+rb_tree_node_replace	src/rb-tree.c	/^static void rb_tree_node_replace(RBTree *tree, RBTreeNode *node1,$/;"	f	file:
+rb_tree_node_sibling	src/rb-tree.c	/^static RBTreeNode *rb_tree_node_sibling(RBTreeNode *node)$/;"	f	file:
+rb_tree_node_side	src/rb-tree.c	/^static RBTreeNodeSide rb_tree_node_side(RBTreeNode *node)$/;"	f	file:
+rb_tree_node_uncle	src/rb-tree.c	/^RBTreeNode *rb_tree_node_uncle(RBTreeNode *node)$/;"	f
+rb_tree_node_value	src/rb-tree.c	/^RBTreeValue rb_tree_node_value(RBTreeNode *node)$/;"	f
+rb_tree_num_entries	src/rb-tree.c	/^int rb_tree_num_entries(RBTree *tree)$/;"	f
+rb_tree_remove	src/rb-tree.c	/^int rb_tree_remove(RBTree *tree, RBTreeKey key)$/;"	f
+rb_tree_remove_node	src/rb-tree.c	/^void rb_tree_remove_node(RBTree *tree, RBTreeNode *node)$/;"	f
+rb_tree_root_node	src/rb-tree.c	/^RBTreeNode *rb_tree_root_node(RBTree *tree)$/;"	f
+rb_tree_rotate	src/rb-tree.c	/^static RBTreeNode *rb_tree_rotate(RBTree *tree, RBTreeNode *node,$/;"	f	file:
+rb_tree_to_array	src/rb-tree.c	/^RBTreeValue *rb_tree_to_array(RBTree *tree)$/;"	f
+realloc	test/alloc-testing.h	44;"	d
+realloc	test/alloc-testing.h	45;"	d
+refcount	src/binomial-heap.c	/^	unsigned short refcount;$/;"	m	struct:_BinomialTree	file:
+root_node	src/avl-tree.c	/^	AVLTreeNode *root_node;$/;"	m	struct:_AVLTree	file:
+root_node	src/rb-tree.c	/^	RBTreeNode *root_node;$/;"	m	struct:_RBTree	file:
+root_node	src/trie.c	/^	TrieNode *root_node;$/;"	m	struct:_Trie	file:
+roots	src/binomial-heap.c	/^	BinomialTree **roots;$/;"	m	struct:_BinomialHeap	file:
+roots_length	src/binomial-heap.c	/^	unsigned int roots_length;$/;"	m	struct:_BinomialHeap	file:
+run_test	test/framework.c	/^static void run_test(UnitTestFunction test)$/;"	f	file:
+run_tests	test/framework.c	/^void run_tests(UnitTestFunction *tests)$/;"	f
+salts	src/bloom-filter.c	/^static const unsigned int salts[] = {$/;"	v	file:
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	doc/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	src/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	test/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+set	src/set.h	/^	Set *set;$/;"	m	struct:_SetIterator
+set_allocate_table	src/set.c	/^static int set_allocate_table(Set *set)$/;"	f	file:
+set_enlarge	src/set.c	/^static int set_enlarge(Set *set)$/;"	f	file:
+set_free	src/set.c	/^void set_free(Set *set)$/;"	f
+set_free_entry	src/set.c	/^static void set_free_entry(Set *set, SetEntry *entry) $/;"	f	file:
+set_insert	src/set.c	/^int set_insert(Set *set, SetValue data)$/;"	f
+set_intersection	src/set.c	/^Set *set_intersection(Set *set1, Set *set2)$/;"	f
+set_iter_has_more	src/set.c	/^int set_iter_has_more(SetIterator *iterator)$/;"	f
+set_iter_next	src/set.c	/^SetValue set_iter_next(SetIterator *iterator)$/;"	f
+set_iterate	src/set.c	/^void set_iterate(Set *set, SetIterator *iter)$/;"	f
+set_new	src/set.c	/^Set *set_new(SetHashFunc hash_func, SetEqualFunc equal_func)$/;"	f
+set_num_entries	src/set.c	/^unsigned int set_num_entries(Set *set)$/;"	f
+set_num_primes	src/set.c	/^static const unsigned int set_num_primes = sizeof(set_primes) \/ sizeof(int);$/;"	v	file:
+set_primes	src/set.c	/^static const unsigned int set_primes[] = {$/;"	v	file:
+set_query	src/set.c	/^int set_query(Set *set, SetValue data)$/;"	f
+set_register_free_function	src/set.c	/^void set_register_free_function(Set *set, SetFreeFunc free_func)$/;"	f
+set_remove	src/set.c	/^int set_remove(Set *set, SetValue data)$/;"	f
+set_to_array	src/set.c	/^SetValue *set_to_array(Set *set)$/;"	f
+set_union	src/set.c	/^Set *set_union(Set *set1, Set *set2)$/;"	f
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	doc/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	src/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	test/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+slist_append	src/slist.c	/^SListEntry *slist_append(SListEntry **list, SListValue data)$/;"	f
+slist_data	src/slist.c	/^SListValue slist_data(SListEntry *listentry)$/;"	f
+slist_find_data	src/slist.c	/^SListEntry *slist_find_data(SListEntry *list,$/;"	f
+slist_free	src/slist.c	/^void slist_free(SListEntry *list)$/;"	f
+slist_iter_has_more	src/slist.c	/^int slist_iter_has_more(SListIterator *iter)$/;"	f
+slist_iter_next	src/slist.c	/^SListValue slist_iter_next(SListIterator *iter)$/;"	f
+slist_iter_remove	src/slist.c	/^void slist_iter_remove(SListIterator *iter)$/;"	f
+slist_iterate	src/slist.c	/^void slist_iterate(SListEntry **list, SListIterator *iter)$/;"	f
+slist_length	src/slist.c	/^unsigned int slist_length(SListEntry *list)$/;"	f
+slist_next	src/slist.c	/^SListEntry *slist_next(SListEntry *listentry)$/;"	f
+slist_nth_data	src/slist.c	/^SListValue slist_nth_data(SListEntry *list, unsigned int n)$/;"	f
+slist_nth_entry	src/slist.c	/^SListEntry *slist_nth_entry(SListEntry *list, unsigned int n)$/;"	f
+slist_prepend	src/slist.c	/^SListEntry *slist_prepend(SListEntry **list, SListValue data)$/;"	f
+slist_remove_data	src/slist.c	/^unsigned int slist_remove_data(SListEntry **list, SListEqualFunc callback,$/;"	f
+slist_remove_entry	src/slist.c	/^int slist_remove_entry(SListEntry **list, SListEntry *entry)$/;"	f
+slist_sort	src/slist.c	/^void slist_sort(SListEntry **list, SListCompareFunc compare_func)$/;"	f
+slist_sort_internal	src/slist.c	/^static SListEntry *slist_sort_internal(SListEntry **list, $/;"	f	file:
+slist_to_array	src/slist.c	/^SListValue *slist_to_array(SListEntry *list)$/;"	f
+srcdir	Makefile	/^srcdir = .$/;"	m
+srcdir	doc/Makefile	/^srcdir = .$/;"	m
+srcdir	src/Makefile	/^srcdir = .$/;"	m
+srcdir	test/Makefile	/^srcdir = .$/;"	m
+strdup	test/alloc-testing.h	48;"	d
+strdup	test/alloc-testing.h	49;"	d
+string_compare	src/compare-string.c	/^int string_compare(void *string1, void *string2)$/;"	f
+string_equal	src/compare-string.c	/^int string_equal(void *string1, void *string2)$/;"	f
+string_hash	src/hash-string.c	/^unsigned int string_hash(void *string)$/;"	f
+string_nocase_compare	src/compare-string.c	/^int string_nocase_compare(void *string1, void *string2)$/;"	f
+string_nocase_equal	src/compare-string.c	/^int string_nocase_equal(void *string1, void *string2)$/;"	f
+string_nocase_hash	src/hash-string.c	/^unsigned int string_nocase_hash(void *string)$/;"	f
+subdir	Makefile	/^subdir = .$/;"	m
+subdir	doc/Makefile	/^subdir = doc$/;"	m
+subdir	src/Makefile	/^subdir = src$/;"	m
+subdir	test/Makefile	/^subdir = test$/;"	m
+subtrees	src/binomial-heap.c	/^	BinomialTree **subtrees;$/;"	m	struct:_BinomialTree	file:
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	doc/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	src/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	test/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+table	src/bloom-filter.c	/^	unsigned char *table;$/;"	m	struct:_BloomFilter	file:
+table	src/hash-table.c	/^	HashTableEntry **table;$/;"	m	struct:_HashTable	file:
+table	src/set.c	/^	SetEntry **table;$/;"	m	struct:_Set	file:
+table_size	src/bloom-filter.c	/^	unsigned int table_size;$/;"	m	struct:_BloomFilter	file:
+table_size	src/hash-table.c	/^	unsigned int table_size;$/;"	m	struct:_HashTable	file:
+table_size	src/set.c	/^	unsigned int table_size;$/;"	m	struct:_Set	file:
+tail	src/queue.c	/^	QueueEntry *tail;$/;"	m	struct:_Queue	file:
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | BZIP2=$${BZIP2--9} bzip2 -c >$(distdir).tar.bz2$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | GZIP=$(GZIP_ENV) gzip -c >$(distdir).tar.gz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | XZ_OPT=$${XZ_OPT--e} xz -c >$(distdir).tar.xz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | compress -c >$(distdir).tar.Z$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | lzip -c $${LZIP_OPT--9} >$(distdir).tar.lz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | lzma -9 -c >$(distdir).tar.lzma$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+target_alias	doc/Makefile	/^target_alias = $/;"	m
+target_alias	src/Makefile	/^target_alias = $/;"	m
+target_alias	test/Makefile	/^target_alias = $/;"	m
+test_alloc_testing_DEPENDENCIES	test/Makefile	/^test_alloc_testing_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_alloc_testing_LDADD	test/Makefile	/^test_alloc_testing_LDADD = $(LDADD)$/;"	m
+test_alloc_testing_OBJECTS	test/Makefile	/^test_alloc_testing_OBJECTS = test-alloc-testing.$(OBJEXT)$/;"	m
+test_alloc_testing_SOURCES	test/Makefile	/^test_alloc_testing_SOURCES = test-alloc-testing.c$/;"	m
+test_array	test/test-avl-tree.c	/^int test_array[NUM_TEST_VALUES];$/;"	v
+test_array	test/test-binary-heap.c	/^int test_array[NUM_TEST_VALUES];$/;"	v
+test_array	test/test-binomial-heap.c	/^int test_array[NUM_TEST_VALUES];$/;"	v
+test_array	test/test-rb-tree.c	/^int test_array[NUM_TEST_VALUES];$/;"	v
+test_array	test/test-trie.c	/^int test_array[NUM_TEST_VALUES];$/;"	v
+test_arraylist	test/test-cpp.cpp	/^static void test_arraylist(void)$/;"	f	file:
+test_arraylist_DEPENDENCIES	test/Makefile	/^test_arraylist_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_arraylist_LDADD	test/Makefile	/^test_arraylist_LDADD = $(LDADD)$/;"	m
+test_arraylist_OBJECTS	test/Makefile	/^test_arraylist_OBJECTS = test-arraylist.$(OBJEXT)$/;"	m
+test_arraylist_SOURCES	test/Makefile	/^test_arraylist_SOURCES = test-arraylist.c$/;"	m
+test_arraylist_append	test/test-arraylist.c	/^void test_arraylist_append(void)$/;"	f
+test_arraylist_clear	test/test-arraylist.c	/^void test_arraylist_clear(void)$/;"	f
+test_arraylist_index_of	test/test-arraylist.c	/^void test_arraylist_index_of(void)$/;"	f
+test_arraylist_insert	test/test-arraylist.c	/^void test_arraylist_insert(void)$/;"	f
+test_arraylist_new_free	test/test-arraylist.c	/^void test_arraylist_new_free(void)$/;"	f
+test_arraylist_prepend	test/test-arraylist.c	/^void test_arraylist_prepend(void)$/;"	f
+test_arraylist_remove	test/test-arraylist.c	/^void test_arraylist_remove(void)$/;"	f
+test_arraylist_remove_range	test/test-arraylist.c	/^void test_arraylist_remove_range(void)$/;"	f
+test_arraylist_sort	test/test-arraylist.c	/^void test_arraylist_sort(void)$/;"	f
+test_avl_tree	test/test-cpp.cpp	/^static void test_avl_tree(void)$/;"	f	file:
+test_avl_tree_DEPENDENCIES	test/Makefile	/^test_avl_tree_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_avl_tree_LDADD	test/Makefile	/^test_avl_tree_LDADD = $(LDADD)$/;"	m
+test_avl_tree_OBJECTS	test/Makefile	/^test_avl_tree_OBJECTS = test-avl-tree.$(OBJEXT)$/;"	m
+test_avl_tree_SOURCES	test/Makefile	/^test_avl_tree_SOURCES = test-avl-tree.c$/;"	m
+test_avl_tree_child	test/test-avl-tree.c	/^void test_avl_tree_child(void)$/;"	f
+test_avl_tree_free	test/test-avl-tree.c	/^void test_avl_tree_free(void)$/;"	f
+test_avl_tree_insert_lookup	test/test-avl-tree.c	/^void test_avl_tree_insert_lookup(void)$/;"	f
+test_avl_tree_lookup	test/test-avl-tree.c	/^void test_avl_tree_lookup(void)$/;"	f
+test_avl_tree_new	test/test-avl-tree.c	/^void test_avl_tree_new(void)$/;"	f
+test_avl_tree_remove	test/test-avl-tree.c	/^void test_avl_tree_remove(void)$/;"	f
+test_avl_tree_to_array	test/test-avl-tree.c	/^void test_avl_tree_to_array(void)$/;"	f
+test_binary_heap	test/test-cpp.cpp	/^static void test_binary_heap(void)$/;"	f	file:
+test_binary_heap_DEPENDENCIES	test/Makefile	/^test_binary_heap_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_binary_heap_LDADD	test/Makefile	/^test_binary_heap_LDADD = $(LDADD)$/;"	m
+test_binary_heap_OBJECTS	test/Makefile	/^test_binary_heap_OBJECTS = test-binary-heap.$(OBJEXT)$/;"	m
+test_binary_heap_SOURCES	test/Makefile	/^test_binary_heap_SOURCES = test-binary-heap.c$/;"	m
+test_binary_heap_insert	test/test-binary-heap.c	/^void test_binary_heap_insert(void)$/;"	f
+test_binary_heap_new_free	test/test-binary-heap.c	/^void test_binary_heap_new_free(void)$/;"	f
+test_binomial_heap	test/test-cpp.cpp	/^static void test_binomial_heap(void)$/;"	f	file:
+test_binomial_heap_DEPENDENCIES	test/Makefile	/^test_binomial_heap_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_binomial_heap_LDADD	test/Makefile	/^test_binomial_heap_LDADD = $(LDADD)$/;"	m
+test_binomial_heap_OBJECTS	test/Makefile	/^test_binomial_heap_OBJECTS = test-binomial-heap.$(OBJEXT)$/;"	m
+test_binomial_heap_SOURCES	test/Makefile	/^test_binomial_heap_SOURCES = test-binomial-heap.c$/;"	m
+test_binomial_heap_insert	test/test-binomial-heap.c	/^void test_binomial_heap_insert(void)$/;"	f
+test_binomial_heap_new_free	test/test-binomial-heap.c	/^void test_binomial_heap_new_free(void)$/;"	f
+test_bloom_filter	test/test-cpp.cpp	/^static void test_bloom_filter(void)$/;"	f	file:
+test_bloom_filter_DEPENDENCIES	test/Makefile	/^test_bloom_filter_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_bloom_filter_LDADD	test/Makefile	/^test_bloom_filter_LDADD = $(LDADD)$/;"	m
+test_bloom_filter_OBJECTS	test/Makefile	/^test_bloom_filter_OBJECTS = test-bloom-filter.$(OBJEXT)$/;"	m
+test_bloom_filter_SOURCES	test/Makefile	/^test_bloom_filter_SOURCES = test-bloom-filter.c$/;"	m
+test_bloom_filter_insert_query	test/test-bloom-filter.c	/^void test_bloom_filter_insert_query(void)$/;"	f
+test_bloom_filter_intersection	test/test-bloom-filter.c	/^void test_bloom_filter_intersection(void)$/;"	f
+test_bloom_filter_mismatch	test/test-bloom-filter.c	/^void test_bloom_filter_mismatch(void)$/;"	f
+test_bloom_filter_new_free	test/test-bloom-filter.c	/^void test_bloom_filter_new_free(void)$/;"	f
+test_bloom_filter_read_load	test/test-bloom-filter.c	/^void test_bloom_filter_read_load(void)$/;"	f
+test_bloom_filter_union	test/test-bloom-filter.c	/^void test_bloom_filter_union(void)$/;"	f
+test_calloc	test/test-alloc-testing.c	/^static void test_calloc(void)$/;"	f	file:
+test_compare_functions_DEPENDENCIES	test/Makefile	/^test_compare_functions_DEPENDENCIES =  \\$/;"	m
+test_compare_functions_LDADD	test/Makefile	/^test_compare_functions_LDADD = $(LDADD)$/;"	m
+test_compare_functions_OBJECTS	test/Makefile	/^test_compare_functions_OBJECTS = test-compare-functions.$(OBJEXT)$/;"	m
+test_compare_functions_SOURCES	test/Makefile	/^test_compare_functions_SOURCES = test-compare-functions.c$/;"	m
+test_compare_int	test/test-cpp.cpp	/^static void test_compare_int(void)$/;"	f	file:
+test_compare_pointer	test/test-cpp.cpp	/^static void test_compare_pointer(void)$/;"	f	file:
+test_compare_string	test/test-cpp.cpp	/^static void test_compare_string(void)$/;"	f	file:
+test_cpp_DEPENDENCIES	test/Makefile	/^test_cpp_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_cpp_LDADD	test/Makefile	/^test_cpp_LDADD = $(LDADD)$/;"	m
+test_cpp_OBJECTS	test/Makefile	/^test_cpp_OBJECTS = $(am_test_cpp_OBJECTS)$/;"	m
+test_cpp_SOURCES	test/Makefile	/^test_cpp_SOURCES = test-cpp.cpp$/;"	m
+test_hash_functions_DEPENDENCIES	test/Makefile	/^test_hash_functions_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_hash_functions_LDADD	test/Makefile	/^test_hash_functions_LDADD = $(LDADD)$/;"	m
+test_hash_functions_OBJECTS	test/Makefile	/^test_hash_functions_OBJECTS = test-hash-functions.$(OBJEXT)$/;"	m
+test_hash_functions_SOURCES	test/Makefile	/^test_hash_functions_SOURCES = test-hash-functions.c$/;"	m
+test_hash_int	test/test-cpp.cpp	/^static void test_hash_int(void)$/;"	f	file:
+test_hash_pointer	test/test-cpp.cpp	/^static void test_hash_pointer(void)$/;"	f	file:
+test_hash_string	test/test-cpp.cpp	/^static void test_hash_string(void)$/;"	f	file:
+test_hash_table	test/test-cpp.cpp	/^static void test_hash_table(void)$/;"	f	file:
+test_hash_table_DEPENDENCIES	test/Makefile	/^test_hash_table_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_hash_table_LDADD	test/Makefile	/^test_hash_table_LDADD = $(LDADD)$/;"	m
+test_hash_table_OBJECTS	test/Makefile	/^test_hash_table_OBJECTS = test-hash-table.$(OBJEXT)$/;"	m
+test_hash_table_SOURCES	test/Makefile	/^test_hash_table_SOURCES = test-hash-table.c$/;"	m
+test_hash_table_free_functions	test/test-hash-table.c	/^void test_hash_table_free_functions(void)$/;"	f
+test_hash_table_insert_lookup	test/test-hash-table.c	/^void test_hash_table_insert_lookup(void)$/;"	f
+test_hash_table_iterating	test/test-hash-table.c	/^void test_hash_table_iterating(void)$/;"	f
+test_hash_table_iterating_remove	test/test-hash-table.c	/^void test_hash_table_iterating_remove(void)$/;"	f
+test_hash_table_new_free	test/test-hash-table.c	/^void test_hash_table_new_free(void)$/;"	f
+test_hash_table_out_of_memory	test/test-hash-table.c	/^void test_hash_table_out_of_memory(void)$/;"	f
+test_hash_table_remove	test/test-hash-table.c	/^void test_hash_table_remove(void)$/;"	f
+test_insert_out_of_memory	test/test-binomial-heap.c	/^static void test_insert_out_of_memory(void)$/;"	f	file:
+test_int_compare	test/test-compare-functions.c	/^void test_int_compare(void)$/;"	f
+test_int_equal	test/test-compare-functions.c	/^void test_int_equal(void)$/;"	f
+test_int_hash	test/test-hash-functions.c	/^void test_int_hash(void)$/;"	f
+test_limits	test/test-alloc-testing.c	/^static void test_limits(void)$/;"	f	file:
+test_list	test/test-cpp.cpp	/^static void test_list(void)$/;"	f	file:
+test_list_DEPENDENCIES	test/Makefile	/^test_list_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_list_LDADD	test/Makefile	/^test_list_LDADD = $(LDADD)$/;"	m
+test_list_OBJECTS	test/Makefile	/^test_list_OBJECTS = test-list.$(OBJEXT)$/;"	m
+test_list_SOURCES	test/Makefile	/^test_list_SOURCES = test-list.c$/;"	m
+test_list_append	test/test-list.c	/^void test_list_append(void)$/;"	f
+test_list_find_data	test/test-list.c	/^void test_list_find_data(void)$/;"	f
+test_list_free	test/test-list.c	/^void test_list_free(void)$/;"	f
+test_list_iterate	test/test-list.c	/^void test_list_iterate(void)$/;"	f
+test_list_iterate_bad_remove	test/test-list.c	/^void test_list_iterate_bad_remove(void)$/;"	f
+test_list_length	test/test-list.c	/^void test_list_length(void)$/;"	f
+test_list_next	test/test-list.c	/^void test_list_next(void)$/;"	f
+test_list_nth_data	test/test-list.c	/^void test_list_nth_data(void)$/;"	f
+test_list_nth_entry	test/test-list.c	/^void test_list_nth_entry(void)$/;"	f
+test_list_prepend	test/test-list.c	/^void test_list_prepend(void)$/;"	f
+test_list_remove_data	test/test-list.c	/^void test_list_remove_data(void)$/;"	f
+test_list_remove_entry	test/test-list.c	/^void test_list_remove_entry(void)$/;"	f
+test_list_sort	test/test-list.c	/^void test_list_sort(void)$/;"	f
+test_list_to_array	test/test-list.c	/^void test_list_to_array(void)$/;"	f
+test_malloc_free	test/test-alloc-testing.c	/^static void test_malloc_free(void)$/;"	f	file:
+test_max_heap	test/test-binary-heap.c	/^void test_max_heap(void)$/;"	f
+test_max_heap	test/test-binomial-heap.c	/^void test_max_heap(void)$/;"	f
+test_min_heap	test/test-binary-heap.c	/^void test_min_heap(void)$/;"	f
+test_min_heap	test/test-binomial-heap.c	/^void test_min_heap(void)$/;"	f
+test_out_of_memory	test/test-avl-tree.c	/^void test_out_of_memory(void)$/;"	f
+test_out_of_memory	test/test-binary-heap.c	/^void test_out_of_memory(void)$/;"	f
+test_out_of_memory	test/test-rb-tree.c	/^void test_out_of_memory(void)$/;"	f
+test_pointer_compare	test/test-compare-functions.c	/^void test_pointer_compare(void)$/;"	f
+test_pointer_equal	test/test-compare-functions.c	/^void test_pointer_equal(void)$/;"	f
+test_pointer_hash	test/test-hash-functions.c	/^void test_pointer_hash(void)$/;"	f
+test_pop_out_of_memory	test/test-binomial-heap.c	/^void test_pop_out_of_memory(void)$/;"	f
+test_queue	test/test-cpp.cpp	/^static void test_queue(void)$/;"	f	file:
+test_queue_DEPENDENCIES	test/Makefile	/^test_queue_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_queue_LDADD	test/Makefile	/^test_queue_LDADD = $(LDADD)$/;"	m
+test_queue_OBJECTS	test/Makefile	/^test_queue_OBJECTS = test-queue.$(OBJEXT)$/;"	m
+test_queue_SOURCES	test/Makefile	/^test_queue_SOURCES = test-queue.c$/;"	m
+test_queue_is_empty	test/test-queue.c	/^void test_queue_is_empty(void)$/;"	f
+test_queue_new_free	test/test-queue.c	/^void test_queue_new_free(void)$/;"	f
+test_queue_peek_head	test/test-queue.c	/^void test_queue_peek_head(void)$/;"	f
+test_queue_peek_tail	test/test-queue.c	/^void test_queue_peek_tail(void)$/;"	f
+test_queue_pop_head	test/test-queue.c	/^void test_queue_pop_head(void)$/;"	f
+test_queue_pop_tail	test/test-queue.c	/^void test_queue_pop_tail(void)$/;"	f
+test_queue_push_head	test/test-queue.c	/^void test_queue_push_head(void)$/;"	f
+test_queue_push_tail	test/test-queue.c	/^void test_queue_push_tail(void)$/;"	f
+test_rb_tree_DEPENDENCIES	test/Makefile	/^test_rb_tree_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_rb_tree_LDADD	test/Makefile	/^test_rb_tree_LDADD = $(LDADD)$/;"	m
+test_rb_tree_OBJECTS	test/Makefile	/^test_rb_tree_OBJECTS = test-rb-tree.$(OBJEXT)$/;"	m
+test_rb_tree_SOURCES	test/Makefile	/^test_rb_tree_SOURCES = test-rb-tree.c$/;"	m
+test_rb_tree_child	test/test-rb-tree.c	/^void test_rb_tree_child(void)$/;"	f
+test_rb_tree_free	test/test-rb-tree.c	/^void test_rb_tree_free(void)$/;"	f
+test_rb_tree_insert_lookup	test/test-rb-tree.c	/^void test_rb_tree_insert_lookup(void)$/;"	f
+test_rb_tree_lookup	test/test-rb-tree.c	/^void test_rb_tree_lookup(void)$/;"	f
+test_rb_tree_new	test/test-rb-tree.c	/^void test_rb_tree_new(void)$/;"	f
+test_rb_tree_remove	test/test-rb-tree.c	/^void test_rb_tree_remove(void)$/;"	f
+test_rb_tree_to_array	test/test-rb-tree.c	/^void test_rb_tree_to_array(void)$/;"	f
+test_realloc	test/test-alloc-testing.c	/^static void test_realloc(void)$/;"	f	file:
+test_set	test/test-cpp.cpp	/^static void test_set(void)$/;"	f	file:
+test_set_DEPENDENCIES	test/Makefile	/^test_set_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_set_LDADD	test/Makefile	/^test_set_LDADD = $(LDADD)$/;"	m
+test_set_OBJECTS	test/Makefile	/^test_set_OBJECTS = test-set.$(OBJEXT)$/;"	m
+test_set_SOURCES	test/Makefile	/^test_set_SOURCES = test-set.c$/;"	m
+test_set_free_function	test/test-set.c	/^void test_set_free_function(void)$/;"	f
+test_set_insert	test/test-set.c	/^void test_set_insert(void)$/;"	f
+test_set_intersection	test/test-set.c	/^void test_set_intersection(void)$/;"	f
+test_set_iterating	test/test-set.c	/^void test_set_iterating(void)$/;"	f
+test_set_iterating_remove	test/test-set.c	/^void test_set_iterating_remove(void)$/;"	f
+test_set_new_free	test/test-set.c	/^void test_set_new_free(void)$/;"	f
+test_set_out_of_memory	test/test-set.c	/^void test_set_out_of_memory(void)$/;"	f
+test_set_query	test/test-set.c	/^void test_set_query(void)$/;"	f
+test_set_remove	test/test-set.c	/^void test_set_remove(void)$/;"	f
+test_set_to_array	test/test-set.c	/^void test_set_to_array(void)$/;"	f
+test_set_union	test/test-set.c	/^void test_set_union(void)$/;"	f
+test_slist	test/test-cpp.cpp	/^static void test_slist(void)$/;"	f	file:
+test_slist_DEPENDENCIES	test/Makefile	/^test_slist_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_slist_LDADD	test/Makefile	/^test_slist_LDADD = $(LDADD)$/;"	m
+test_slist_OBJECTS	test/Makefile	/^test_slist_OBJECTS = test-slist.$(OBJEXT)$/;"	m
+test_slist_SOURCES	test/Makefile	/^test_slist_SOURCES = test-slist.c$/;"	m
+test_slist_append	test/test-slist.c	/^void test_slist_append(void)$/;"	f
+test_slist_find_data	test/test-slist.c	/^void test_slist_find_data(void)$/;"	f
+test_slist_free	test/test-slist.c	/^void test_slist_free(void)$/;"	f
+test_slist_iterate	test/test-slist.c	/^void test_slist_iterate(void)$/;"	f
+test_slist_iterate_bad_remove	test/test-slist.c	/^void test_slist_iterate_bad_remove(void)$/;"	f
+test_slist_length	test/test-slist.c	/^void test_slist_length(void)$/;"	f
+test_slist_next	test/test-slist.c	/^void test_slist_next(void)$/;"	f
+test_slist_nth_data	test/test-slist.c	/^void test_slist_nth_data(void)$/;"	f
+test_slist_nth_entry	test/test-slist.c	/^void test_slist_nth_entry(void)$/;"	f
+test_slist_prepend	test/test-slist.c	/^void test_slist_prepend(void)$/;"	f
+test_slist_remove_data	test/test-slist.c	/^void test_slist_remove_data(void)$/;"	f
+test_slist_remove_entry	test/test-slist.c	/^void test_slist_remove_entry(void)$/;"	f
+test_slist_sort	test/test-slist.c	/^void test_slist_sort(void)$/;"	f
+test_slist_to_array	test/test-slist.c	/^void test_slist_to_array(void)$/;"	f
+test_strdup	test/test-alloc-testing.c	/^static void test_strdup(void)$/;"	f	file:
+test_string_compare	test/test-compare-functions.c	/^void test_string_compare(void)$/;"	f
+test_string_equal	test/test-compare-functions.c	/^void test_string_equal(void)$/;"	f
+test_string_hash	test/test-hash-functions.c	/^void test_string_hash(void)$/;"	f
+test_string_nocase_compare	test/test-compare-functions.c	/^void test_string_nocase_compare(void)$/;"	f
+test_string_nocase_equal	test/test-compare-functions.c	/^void test_string_nocase_equal(void)$/;"	f
+test_string_nocase_hash	test/test-hash-functions.c	/^void test_string_nocase_hash(void)$/;"	f
+test_strings	test/test-trie.c	/^char test_strings[NUM_TEST_VALUES][10];$/;"	v
+test_trie	test/test-cpp.cpp	/^static void test_trie(void)$/;"	f	file:
+test_trie_DEPENDENCIES	test/Makefile	/^test_trie_DEPENDENCIES = $(top_builddir)\/src\/libcalgtest.a \\$/;"	m
+test_trie_LDADD	test/Makefile	/^test_trie_LDADD = $(LDADD)$/;"	m
+test_trie_OBJECTS	test/Makefile	/^test_trie_OBJECTS = test-trie.$(OBJEXT)$/;"	m
+test_trie_SOURCES	test/Makefile	/^test_trie_SOURCES = test-trie.c$/;"	m
+test_trie_free_long	test/test-trie.c	/^static void test_trie_free_long(void)$/;"	f	file:
+test_trie_insert	test/test-trie.c	/^void test_trie_insert(void)$/;"	f
+test_trie_insert_binary	test/test-trie.c	/^void test_trie_insert_binary(void)$/;"	f
+test_trie_insert_empty	test/test-trie.c	/^void test_trie_insert_empty(void)$/;"	f
+test_trie_insert_out_of_memory	test/test-trie.c	/^void test_trie_insert_out_of_memory(void)$/;"	f
+test_trie_lookup	test/test-trie.c	/^void test_trie_lookup(void)$/;"	f
+test_trie_negative_keys	test/test-trie.c	/^static void test_trie_negative_keys(void)$/;"	f	file:
+test_trie_new_free	test/test-trie.c	/^void test_trie_new_free(void)$/;"	f
+test_trie_remove	test/test-trie.c	/^void test_trie_remove(void)$/;"	f
+test_trie_remove_binary	test/test-trie.c	/^void test_trie_remove_binary(void)$/;"	f
+test_trie_replace	test/test-trie.c	/^void test_trie_replace(void)$/;"	f
+tests	test/test-alloc-testing.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-arraylist.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-avl-tree.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-binary-heap.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-binomial-heap.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-bloom-filter.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-compare-functions.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-cpp.cpp	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-hash-functions.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-hash-table.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-list.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-queue.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-rb-tree.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-set.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-slist.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+tests	test/test-trie.c	/^static UnitTestFunction tests[] = {$/;"	v	file:
+top_build_prefix	Makefile	/^top_build_prefix = $/;"	m
+top_build_prefix	doc/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	src/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	test/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = .$/;"	m
+top_builddir	doc/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	src/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	test/Makefile	/^top_builddir = ..$/;"	m
+top_distdir	Makefile	/^top_distdir = $(distdir)$/;"	m
+top_srcdir	Makefile	/^top_srcdir = .$/;"	m
+top_srcdir	doc/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	src/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	test/Makefile	/^top_srcdir = ..$/;"	m
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	doc/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	src/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	test/Makefile	/^transform = $(program_transform_name)$/;"	m
+trie_find_end	src/trie.c	/^static TrieNode *trie_find_end(Trie *trie, char *key)$/;"	f	file:
+trie_find_end_binary	src/trie.c	/^static TrieNode *trie_find_end_binary(Trie *trie, unsigned char *key,$/;"	f	file:
+trie_free	src/trie.c	/^void trie_free(Trie *trie)$/;"	f
+trie_free_list_pop	src/trie.c	/^static TrieNode *trie_free_list_pop(TrieNode **list)$/;"	f	file:
+trie_free_list_push	src/trie.c	/^static void trie_free_list_push(TrieNode **list, TrieNode *node)$/;"	f	file:
+trie_insert	src/trie.c	/^int trie_insert(Trie *trie, char *key, TrieValue value)$/;"	f
+trie_insert_binary	src/trie.c	/^int trie_insert_binary(Trie *trie, unsigned char *key, int key_length,$/;"	f
+trie_insert_rollback	src/trie.c	/^static void trie_insert_rollback(Trie *trie, unsigned char *key)$/;"	f	file:
+trie_lookup	src/trie.c	/^TrieValue trie_lookup(Trie *trie, char *key)$/;"	f
+trie_lookup_binary	src/trie.c	/^TrieValue trie_lookup_binary(Trie *trie, unsigned char *key, int key_length)$/;"	f
+trie_new	src/trie.c	/^Trie *trie_new(void)$/;"	f
+trie_num_entries	src/trie.c	/^unsigned int trie_num_entries(Trie *trie)$/;"	f
+trie_remove	src/trie.c	/^int trie_remove(Trie *trie, char *key)$/;"	f
+trie_remove_binary	src/trie.c	/^int trie_remove_binary(Trie *trie, unsigned char *key, int key_length)$/;"	f
+use_count	src/trie.c	/^	unsigned int use_count;$/;"	m	struct:_TrieNode	file:
+validate_subtree	test/test-avl-tree.c	/^int validate_subtree(AVLTreeNode *node)$/;"	f
+validate_tree	test/test-avl-tree.c	/^void validate_tree(AVLTree *tree)$/;"	f
+validate_tree	test/test-rb-tree.c	/^void validate_tree(RBTree *tree)$/;"	f
+value	src/avl-tree.c	/^	AVLTreeValue value;$/;"	m	struct:_AVLTreeNode	file:
+value	src/binomial-heap.c	/^	BinomialHeapValue value;$/;"	m	struct:_BinomialTree	file:
+value	src/hash-table.c	/^	HashTableValue value;$/;"	m	struct:_HashTableEntry	file:
+value	src/rb-tree.c	/^	RBTreeValue value;$/;"	m	struct:_RBTreeNode	file:
+value1	test/test-hash-table.c	/^int value1 = 1, value2 = 2, value3 = 3, value4 = 4;$/;"	v
+value2	test/test-hash-table.c	/^int value1 = 1, value2 = 2, value3 = 3, value4 = 4;$/;"	v
+value3	test/test-hash-table.c	/^int value1 = 1, value2 = 2, value3 = 3, value4 = 4;$/;"	v
+value4	test/test-hash-table.c	/^int value1 = 1, value2 = 2, value3 = 3, value4 = 4;$/;"	v
+value_free_func	src/hash-table.c	/^	HashTableValueFreeFunc value_free_func;$/;"	m	struct:_HashTable	file:
+values	src/binary-heap.c	/^	BinaryHeapValue *values;$/;"	m	struct:_BinaryHeap	file:
+variable1	test/test-arraylist.c	/^int variable1, variable2, variable3, variable4;$/;"	v
+variable1	test/test-list.c	/^int variable1 = 50, variable2, variable3, variable4;$/;"	v
+variable1	test/test-queue.c	/^int variable1, variable2, variable3, variable4;$/;"	v
+variable1	test/test-slist.c	/^int variable1 = 50, variable2, variable3, variable4;$/;"	v
+variable2	test/test-arraylist.c	/^int variable1, variable2, variable3, variable4;$/;"	v
+variable2	test/test-list.c	/^int variable1 = 50, variable2, variable3, variable4;$/;"	v
+variable2	test/test-queue.c	/^int variable1, variable2, variable3, variable4;$/;"	v
+variable2	test/test-slist.c	/^int variable1 = 50, variable2, variable3, variable4;$/;"	v
+variable3	test/test-arraylist.c	/^int variable1, variable2, variable3, variable4;$/;"	v
+variable3	test/test-list.c	/^int variable1 = 50, variable2, variable3, variable4;$/;"	v
+variable3	test/test-queue.c	/^int variable1, variable2, variable3, variable4;$/;"	v
+variable3	test/test-slist.c	/^int variable1 = 50, variable2, variable3, variable4;$/;"	v
+variable4	test/test-arraylist.c	/^int variable1, variable2, variable3, variable4;$/;"	v
+variable4	test/test-list.c	/^int variable1 = 50, variable2, variable3, variable4;$/;"	v
+variable4	test/test-queue.c	/^int variable1, variable2, variable3, variable4;$/;"	v
+variable4	test/test-slist.c	/^int variable1 = 50, variable2, variable3, variable4;$/;"	v
+verify_heap	test/test-binomial-heap.c	/^static void verify_heap(BinomialHeap *heap)$/;"	f	file:
